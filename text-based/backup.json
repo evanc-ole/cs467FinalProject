@@ -1,0 +1,3258 @@
+{
+  "__collections__": {
+    "trainingData": {
+      "03HRdXno3mwP2mIl67We": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855720,
+            "_nanoseconds": 380846000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "70852 00020\n43020\n049432\nOG2 CLVRSN VITAMN D MILK\n380\n14451\nSEED AND STOCK LLC\nTask 46168406\n1267173\nBESPINOZA\n1433020 02/28/20251\n4639\n4. 0\nSRP 0\nA 11 of 13\nC74-5212\n2/128 OZ\nCase 0\n3085154568",
+        "__collections__": {}
+      },
+      "0b3aCbbCwc4Y2RfKffcw": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855692,
+            "_nanoseconds": 426632000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "1267173\nBESPINOZA\n12/340 ML\nTM\nC72-8012\nTM\n43020\n049432\nSMPLY LEMONADE W/RASP S$\nTask 46168406\n25000 00018\n4639\nA 2of 4\n68554\nSEED AND STOCK LLC\n02/28/2025\n380\nSRP 0\n3085154520\n43020\n4.0\nCase 0",
+        "__collections__": {}
+      },
+      "0o6XuVKelGJb1U5WohHL": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854675,
+            "_nanoseconds": 291221000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "MUSH BLUBRY OVRNGHT OAT\n78869 8/5 02\n4/20\nBlueberry 50\n58083 99414\n43020\n049432\n573\nSRP O\nCase 0\n3085156166\n2 of 2\nC73-2724\n12 67 173\nBESPINOZA\n02/28/2025\n4639\nMFSM02\nMESMO2-\n43020\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "0uCURAgziq6kvJ2steiC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864344,
+            "_nanoseconds": 921102000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "Task 46168343\n623-8512\n049432\n49078 12/10.6 2\nSEED AND STOCK LLC\n380\nSRP O\n35143 01741\n43020\n3085154995\n1267185\nNROLOOS\nCase 0\n\u0e27\u0e2d\u0e19\u0e2d\u0e32\u0e23\npauaia:\n43020\n7 of 14 ITO EN UNSW TEA GLDN OOL\n02/28/2025\n4639",
+        "__collections__": {}
+      },
+      "12sfhc73MszRh3mNAtMi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863277,
+            "_nanoseconds": 437754000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "SEED AND STOCK LLC\n45118 12/18 02\nCase 0\n14639\n049432 380\nU.\nROWN.\n1 of 1\nTask 46168343\nG10-2721\n1267184\nNROLOOS\nOG2 MARTIN APPLE JUICE\nDLD MEDAL\u00ae\n412441\n3020\n\u2022LE JUICE\nsh Apples\nFSU2U\n4.0\n- \u0e15\u0e32\u0e23\u0e01\u0e32\u0e01\nSRP 0\nrtinellis\nANIC\n3085154636\nGROWN\n10233",
+        "__collections__": {}
+      },
+      "1HPl5ZAxC0VeGcw2m70T": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861898,
+            "_nanoseconds": 129739000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "970\n1267185\nSIETE POTCHIP SSLT AVOO\nSEED AND STOCK LLC\nG87-2826\nSRP 0\n3085159549\n1 of 1\n43020\n10091 78047\n43020\n049432\n4.0 4639\nNROLOOS\nTask 46168343\n36535 24/1.5 0Z\nCase 0",
+        "__collections__": {}
+      },
+      "1VP76p3sduBZVcWz0WKk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854743,
+            "_nanoseconds": 311058000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "18617 02088\n1 of 6\nTask 46168406\nC80-5412\n1267173\nBESPINOZA\nND\n43020\n049432\nSRP 0\nCase 0\n4639\n41731\nSEED AND STOCK LLC\n573\n3085156449\n10/2 O2\nOG2 SUJA WLNS SHOT IMNTY\n43020\n1.0",
+        "__collections__": {}
+      },
+      "1YM3vkZe8ZWyvV5rLD47": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855821,
+            "_nanoseconds": 319872000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "339\nrated\n20119\n43020\n4.0\n02/28/2025\nStore\nOLIPOP SPK TNIC GRAPE\n66090 12/12 02\n60003 22339\n43020\n4639\n049432 813\n08\nSEED AND STOCK\u2022 LLC\nTask 46168406\nC69-1212\n1267173\nBESPINOZA\n60\nA 3 of 4\nCase 0\nSRP 0\n3085158436",
+        "__collections__": {}
+      },
+      "1ihNKTLKiRsendnsHtkb": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854720,
+            "_nanoseconds": 677008000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "\"Not a low calorie food\n573\nCase 0\nSEED AND STOCK LLC\n78870\n58093 99415\n1267173\n43020\n049432\nSRP 0\n3085156395\n02728/2025\n14\nMUSH VAN BEAN OVRNGT 0A1\n8/5 OZ\nA 2 of 6\nTask 46168406\nC78-8912\nBESPINOZA\n43020\n4.0\n4639",
+        "__collections__": {}
+      },
+      "1nXS5axXvJwGuTKR1yRi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856127,
+            "_nanoseconds": 458004000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "f box.\nremove ttles facil\n43020 02728/2025\n970\nCase 0\nA 10f1\nC74-3011\n18290 01692\n1267173\nBESPINOZA\n00\n43020\n049432\nSRP 0\n6/24 02\nTask 46168406\n3085159273\nCHO COFF CRM SWT CRM\n4.0 4639\n57101\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "1xj3bYyaxAE7OkzeumYv": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854864,
+            "_nanoseconds": 261778000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "43020\n6/12 OZ\n4 10\n54208 00508\nSEED AND STOCK LLC\nOG2 SUJA MIGHTY DOZEN\n049432 573\nSRP 0\nCase 0\n308556623\n34341",
+        "__collections__": {}
+      },
+      "28LnzXUYkHCcZg2rSrQY": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861853,
+            "_nanoseconds": 780003000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "1267 187\nSRP 0\nTGCC SCRM & ONION CRISPS\nTask 46168344\n4639\n.7 lbs\n7.6 o\nItem 9662\n3085159693\n43020\n4.0\n2 of 4\nG49-6112\n049432 970\n02/28/20\nross We\nCase 0\n52657 12/1.6 0Z\n5156200702\nYRIVEROSHURTAI SEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "2BL5RxIy9Sd5HH60J5hP": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862148,
+            "_nanoseconds": 407835000
+          }
+        },
+        "invoiceSnippet": "821",
+        "text": "3085156067\n- 821\n34114 11269\n43020\n049432\n4.0 4639\nA 1 of 3\nTask 46168344\nG45-2912\nYRIVEROSHUR TAD SEED AND STOCK LLC\n43020 102/205\nKETTLE CHIPS SEA SALTED\nSRP 0\n31734 24/1.5 02\nCase 0",
+        "__collections__": {}
+      },
+      "2LDWSlRNcIP6WlcPSuN8": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863210,
+            "_nanoseconds": 517464000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Case 0\nGreen. Tea vecten\n1267185\n43020\n4.0\nEN UNSW GRN TEA JSMI\n35143 01739\n43020\n049432\n12/10.6 2\nof 28\n49077\nSEED AND STOCK LLC\n315 mL.)\nask 46168343\n628-5412\n3085149397\nNROLOOS\n4639\n365\nSRP 0\n23\nITO",
+        "__collections__": {}
+      },
+      "2QeSbbTmzibrzvknrmk0": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855512,
+            "_nanoseconds": 497726000
+          }
+        },
+        "invoiceSnippet": "995",
+        "text": "A 10+1\nC71-4512\nBESPINOZA\n1267173\n4639\nOG2 BTRB STRWBRY KMBCHA\n43020 02728/2025\nmb.\n50029 90387\n995\nSRP 0\n3085162518\n12/12 OZ\n4.0\n00\n48284\nSEED AND STOCK LLC\nTask 46168406\nCase 0\nv Ferm\n8? X 12 OZ CANS\n43020\n049432",
+        "__collections__": {}
+      },
+      "2g7C4esaMoWNaFoIvsCX": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864326,
+            "_nanoseconds": 814525000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "12 servings per container\n4.0\n(TOTAL 5./OL/12/ FL OZ)\n\u91d1\u306e\u70cf\u9f8d\u8336\nNutrition Facts\nSRP 0\nCase 0\n49078\nSEED AND STOCK LLC\nUnsweetened\nTask 46168343\nG23-8512\n1267185\nNROLOOS\nAmount per serving\nCalories\n12/10.6 Z\n380\nNot a signiticant\nChole.\n35143 01741\n43020\n049432\n3085154995\n4639\nServing size 1 can(315mL)\n7 of 14 ITO EN UNSW TEA GLDN OOL\nGolden Oolong Tea\n43020 02/28/2025",
+        "__collections__": {}
+      },
+      "2sHhrgDmZIjezb8v99pJ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864056,
+            "_nanoseconds": 80221000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "15484 12/12 02\nSEED AND STOCK LLC\n89392 00362\n4639\nCase 0\nA 3 of 5 CELS SPARKLG WATERMELON\nNATERMELON\n00\nTask 46168343\nG08-3712\n43020\n049432 573\n1267184\nNROLOOS\n73020\n4.0\nSRP 0\n02/20/2025\n3085157125",
+        "__collections__": {}
+      },
+      "3Cwti55IaYFqPIho4EqA": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854970,
+            "_nanoseconds": 327662000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "A 1 of 3\nC81-5925\n29238\nSEED AND STOCK LLC\n12/2.6 0Z\nTask 46168406\n1267173,\nBESPINOZA\nCase 0\nDRMRL MINI DONUTS VAN\n573\nSRP 0\n3085156692\n049432\n052/28/2025\n4639\n50017 60408\n43820\n4.0",
+        "__collections__": {}
+      },
+      "3Qx9QDlnJBkz80CX29MJ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864181,
+            "_nanoseconds": 233350000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "43820\n049432 74\nOG2 SOLE MNG/ORNG FRT GM\nCase 0\nTask 46168343\n2 of 2\n5002307301\n1267185\n4639\nSEED AND STOCK LLC\nNROLOOS\n67793 8/3.5 02\n3085159136\n43020 02/28/2825\nG19-2623\n744\nSRP 0",
+        "__collections__": {}
+      },
+      "3cTsiUdPnZ4ejb2FNLUS": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855577,
+            "_nanoseconds": 381749000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Task 46168406\n43020\n4.0\n365\n4639\nA 1 of 13 0G2 CLVRSN VITAMN D MILK\nC74-5212\n1267173\nBESPINOZA\n70852 00020\n43020\n02/28/2025\nCase 0\n2/128 02\n3085148680\n049432\nSRP 0\n14451\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "49KXiRI0qqNhYemtzIP2": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854880,
+            "_nanoseconds": 926247000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "6/12 0Z\nGuava 1202/P\nBest B\n05/12\nA 14 of 15 OG2 SUJA GT HLTH ELDR GN\nTask 46168406\nC78-6611\nBESPINOZA\n18617 02370\n43020\n049432 573\nSRP 0\n02/28/2025\n4639\n3085156364\n63813\nSEED AND STOCK LLC\n1267 173\n43020",
+        "__collections__": {}
+      },
+      "4JYsKFkAUd1uINuQ8QbK": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854748,
+            "_nanoseconds": 254606000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "ORGAI\nSRP 0\n027/28/2025\n3085156548\n43020\n049432\n4639\n10/2 OZ\nOG2 SUJA PBTC SHT VT D/Z\n18617 02360\n74209\nSEED AND STOCK LLC\n573\n43020\n4.0\n67173\nESPINOZA\n5 of 6\nsk 46168406\n30-8722\nCase 0\n10\nPACK",
+        "__collections__": {}
+      },
+      "4ZPvAkURsmTsiHeafHka": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863930,
+            "_nanoseconds": 556517000
+          }
+        },
+        "invoiceSnippet": "447",
+        "text": "4639\n447\n12/1 LTR\n43020\n3.0\n21559\nSEED AND STOCK LLC\n3029950553\nGLAS!\n5 of 5\nTask 45436821\nG04-9911\n1164365\nDESPINOZA\nRNG WTR\n01/1772025\nHITA MO\n77208 00033\n43020\n049295\nCase 0\nSRP 0",
+        "__collections__": {}
+      },
+      "4mAFbUvQtpZEGnIch3Cy": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861956,
+            "_nanoseconds": 367425000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "4.0\n43020\n049432\nCase 0\nSRP 0\nA 3 of 4\n970\nTask 46168344\nFruit Rolls\nG42-4012\nYRIVEROSHURTAL SEED AND STOCK LLC\nBEAR REAL FRT YOYO MANGO\n07777\n17946 02005\n3085159617\n02/28/2025\n4639\n6/3.5 02\n43020",
+        "__collections__": {}
+      },
+      "4w4DLg7cXxZdjEAdMYFi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855833,
+            "_nanoseconds": 564014000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "69319 12/5.9 02\n43020\n4.0\n82/25 2823\n4639\n94700 01001\n43820\n049432 813\nCase 0\nSEED AND STOCK LLC\n3085158580\n7 of 1\nTaak 46168406\nC77-3511\nBESPINOZA\n1267173,\nCHO PLAIN NF YOGURT",
+        "__collections__": {}
+      },
+      "4yMfLbxkA3A23OLmlmHt": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855762,
+            "_nanoseconds": 464113000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "049432\n3085158429\nCase 0\n2 of 4\n3k 46168406\n09-1212,\n1267 173\nBESPINOZA\nN3020\nSRP 0\n60003 22339\n4.0\n813\n4639\nOLIPOP SPK TNIC GRAPE\n66090 12/12 02\nSEED AND STOCK LLC 43020\n82/28/2025",
+        "__collections__": {}
+      },
+      "58zUxXvGnUXK3V4b9N2H": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862014,
+            "_nanoseconds": 700035000
+          }
+        },
+        "invoiceSnippet": "928",
+        "text": "SZ\nTask 46168344\n14.0\nHOT\nle Chips\nSIETE KTLCKD POT CHIPS\n16573 3/6/1.5 Z\nVRIVEROSHURTAI SEED AND STOCK LIC\n03\n10091 178051\n3085162501\nA 5 of 5\n639-7812\n1267186\nSRP 0\nCase 0\n43026\n049432 928\n43020\n02728/2025\n4639",
+        "__collections__": {}
+      },
+      "5aBfQeqILbsJ3IalhPoi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854836,
+            "_nanoseconds": 831604000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\n3085156333\nOG2 SUJA GT HLTH ELDR GN\n11 of 15\n43020\n049432\nCase 0\n19617 02379\n1020\nask 46168406\n08-6611\nSPINOZA\n63813 6/12 02\nSEED AND STOCK LLC\n173\n82/2872023)\n4639\nSAP 0",
+        "__collections__": {}
+      },
+      "5pZIPKjo9Y4vzY1XNW6U": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862058,
+            "_nanoseconds": 365434000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "02/28/2025\n4639\nORGANIC\n1 of 1\nCase 0\nSRP 0\n1267184\nG05-6711\nNROLOOS\n38873 3/8/12 0Z\nSEED AND STOCK LLC\n43020\n3085158023\nOR\n43020\n049432\n00\n0G2 NSW SPRK WTR LM GNGF\n838\nLi\nIN ORGANICALI\n4.0\n10013 08023\nTask 46168343",
+        "__collections__": {}
+      },
+      "6Q4RIolJJyNZaUhKEZMU": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863414,
+            "_nanoseconds": 301292000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "Szoz\nGLICO COOKIE STICK CHOCO\n43UZ0\n- 762\n15004\nCase 0\n65403 20/1.41 2\nSEED AND STOCK LLC\nNA COOL AND DRY PLACE AWAY FROM DIRECT SUNLI\n5 of 6\nTask 46168344\n647-6023\n1267187\nGALEKANDER\nLund\n1O1N0 d33X SAVO HUM SNORDA\n3085162358\nSny\n73141\n43026\n049432\n182/20/8525\n4639",
+        "__collections__": {}
+      },
+      "6V4NH5kYnHn7UBxx7GBp": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855688,
+            "_nanoseconds": 904052000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "68554 12/348 ML\nSEED AND STOCK LLC\nCase 0\nBESPINOZA\nA 3of4\n43020 10/28/200\n3885154537\nSMPLY LEMONADE W/RASP SS\n1267173\n380\nSRP 0\n4.0\n25000 00018\n43026\n049432\n4639\nTask 46168406\nC72-8012",
+        "__collections__": {}
+      },
+      "6eP3tYZnWbpx5LMY8dOp": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861838,
+            "_nanoseconds": 168051000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "43020\n4.0\n8/3.5 OZ\n50023 07302\n67792\nSEED AND STOCK LLC\nOG2 SOLE MNG/GUAV FRT GM\nNROLOOS\n43020\nCase 0\nSRP 0\n049432 970\nTask 46168343\nG18-7311\n3085159433\n1267185\n3 of 3\n08/28/2925\n4639",
+        "__collections__": {}
+      },
+      "6iaBlKqV2K70oWxYh2u2": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863002,
+            "_nanoseconds": 872528000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "05/\n43020\n4.0\nTask 46168344\nST BY:\n049432 653\nCase 0\nSRP 0\n3085153264\n02/28/2025\n6/5.9\n99\nA 1 of 1\nG46-4121\n1267186\n11825\n4639\n56069 00583\n43020\n6/5.99 0Z\nYRIVEROSHURTAL SEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "6s7ktsZ2oFfZNCcXw7pP": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854952,
+            "_nanoseconds": 838459000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\nSRP O\nCase 0\nA 12 of 13 0G2 SUJA IMMUNE STRWBRY\n3085156838\nSEED AND STOCK LLC\nSHABLE. KEEP RI chocolate\n09319 6/12 02\n43020\n049432\n1861702269",
+        "__collections__": {}
+      },
+      "6sj9inv6I71uPyunoE6W": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855812,
+            "_nanoseconds": 99316000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "049432 813\nSAP 0\nSEED AND STOCK LLC\nA 10f 4\nTazk 46168406\nC70-3611\n1267173\nBESPINOZA\n3020 00r82)\n0 4639\nOLIPOP GINGER ALE SODA\n17960\nCase 0\n3085158498\n50027 79246\n43020\n12/12 OZ",
+        "__collections__": {}
+      },
+      "70K7xPXlIFvkPgwnwfbi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863108,
+            "_nanoseconds": 443593000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "75140 35001\nA3020\n5.0\nSEED AND STOCK LLC\nG12-3112\n1730171\nJCIFUENTES\n348\nCase U\n2804017962\nSRP 0\n078/289\n4630\nTask 42312831 27442 1/35/16.9\n43020\n048728\nA 18 of 36 CG ALPINE SPRING WATER",
+        "__collections__": {}
+      },
+      "76xHOevvvFulF5dXWmV3": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855684,
+            "_nanoseconds": 429913000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "SRP O\n4639\nCase 0\n68554 12/340 ML\nSEED AND STOCK LLC\n43020\n4.0\nTask 46168406\nC72-8012\n1267173\nBESPINOZA\nSMPLY LEMONADE W/RASP SS\n3985154513\n25880 80018\n43020\n049432 380\nA 1 of 4\n02/28/2025",
+        "__collections__": {}
+      },
+      "7QYlNjobhUMyTW1MTis0": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855627,
+            "_nanoseconds": 264608000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "OG2 CLVRSN VITAMN D MILK\n14451 2/128 0Z\nTask 46168406\nC74-5212\n1267173\nBESPINOZA\nA3020\n93820\nCase 0\n4. 0\nSEED AND STOCK LLC\n4639\n9 of 13\n049432 365\n3885148765\nSRP 0\n70852 00020 6",
+        "__collections__": {}
+      },
+      "7YF3fmrSALnjPtjfG4Y9": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862426,
+            "_nanoseconds": 167067000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "65797 00005\n43020\n049432\nSEED AND STOCK LLC\n573\n02/28/2025\n3085157255\nof 5\nTask 46168343\nG19-5532\n1267185\nNROLOOS\n4639\n43020\n4.0\nCase 0\nSRP 0\nWT MNI SNYDP ALM COCOA\n48182 241.46 02",
+        "__collections__": {}
+      },
+      "7eyKH49T7SH1kTXN79VQ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855598,
+            "_nanoseconds": 242630000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "A 2 of 13\n4639\nOG2 CLVRSN VITAMN D MILK\n3085148697\nTask 46168406\nC74-5212\n1267173\nBESPINOZA\n02/28/2025\nCase 0\n14451 2/128 02\nSEED AND STOCK LLC\n43020\n049432\n365\nSRP 0\n43020\n4.0\n70852 00020",
+        "__collections__": {}
+      },
+      "80MTt155rEC6Dmbrn6sg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861770,
+            "_nanoseconds": 744765000
+          }
+        },
+        "invoiceSnippet": "995",
+        "text": "4639\n43020\n4.0\nVRIVEROSHURTAI, SEED AND STOCK LLC\n02/28/2025\nCase 0\nOG3 LJULY 10RTCHP JALPLM\n53983 2412. 02\nTask 46168344\nSRP 0\n43020\n049432 995\nG50-3812\n2 of 2\n3085162587",
+        "__collections__": {}
+      },
+      "82RSijCRPbi2q7WROASD": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862936,
+            "_nanoseconds": 736761000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "1 of 1\n4.0\n653\nSRP O\n72633 6/4.9 0z\nSEED AND STOCK LLC\nCase 0\n3085153189\nNROLOOS\n12668 02065\n43020 02728/2025\n4639\n049432\nMEA MLKCHC CRML SHBD SQF\nTask 46168343\nG18-6812\n1267185\n43020",
+        "__collections__": {}
+      },
+      "8BBtp089xAFykUgJmeFs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864387,
+            "_nanoseconds": 366290000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "GLICO COOKIE STICK CHOCO\n3085149762\n65403 29/1.41 2\nVRIVEROSHUR TAI, SEED AND STOCK LLC\n43020\n049432\nCase U\nKEEP IN A COOL AND DRY PLACE BELOW 82\u00b0F\nAWAY FROM DIRECT SUNLIGHT\n43020 la\nask 46168344\nOm\n1 of 6\n365\n4.0\n642-6023\n4639",
+        "__collections__": {}
+      },
+      "8BQjWJJStwxK2NCO0Wya": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855592,
+            "_nanoseconds": 521334000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "3085148741\n4639\n7 of 13 0G2 CLVRSN VITAMN D MILK\nTask 46168406\nC74-5212\n1267173\nBESPINOZA\n43020\n70852 00020\n43020\n049432\n365\nSRP 0\n2/128 OZ\n14451\nSEED AND STOCK LLC\nCase 0",
+        "__collections__": {}
+      },
+      "8Cym2LQBnNR32ZNVj3Ib": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861975,
+            "_nanoseconds": 640086000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "639-7812\n1267186\n2 of 5\nTask 46168344\nVRIVERUSHURTAI, SEED AND STOCK LIC\n43020\n02/28/20251\n4639\n3085159563\nCase 0\nS8Z1O #\nSRP 0\n10091 78051\n43020\n049432 970\nSIETE KTLCKD POT CHIPS\n16573 3/6/1.5 2",
+        "__collections__": {}
+      },
+      "8LDT4ov8w96hbsO8RuY3": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855677,
+            "_nanoseconds": 933756000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "463\nA 10'\nTask 4616846\n6/1.89 LT\nC69-3712\n1267173\nHPEREZ1\n43020\n049432\n380\nSRP 0\nCase 0\n3085154476\n70852 00012\n43020\nOG2 CLVRSN VIT D MILK\n88630\nSEED AND STOCK LLC\n02/2872",
+        "__collections__": {}
+      },
+      "8OfANomdCAYF4htqYADk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861815,
+            "_nanoseconds": 947329000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "3/8/12 0Z\nTask 46168343\n43020\n02/28/2025\nNROLOOS\n43020\n4639\nCase 0\nSEED AND STOCK LLC\n606-5411\nS.D SPRKLNG GRAPFRUIT\n29335\n1267184\nA 1 of 2\n049432 970\nSRP O\n3085159396\n56579 00232",
+        "__collections__": {}
+      },
+      "8nE8AUBXgIOcnoQz4Xm0": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863279,
+            "_nanoseconds": 987379000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "1639\n1 of 1\nTask 46168343\nMEDAL\u00ae\n380\nSRP 0\n049432\nGRO\naNOLINE\nINCE 1868\n45118\nSEED AND STOCK LLC\nOG2 MARTIN APPLE JUICE\nU.S.\ninellis\n4.0\n3085154636\n12/10 OZ\n02/28/2025\nG10-2721\n1267184\nNROLOOS\n43020\nSINCE \u2022 1868\nCase 0\n4124410233\n43820\nJUIC\nApples\nGROWN",
+        "__collections__": {}
+      },
+      "8pd8zxHWaAYLyhkYTIev": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863234,
+            "_nanoseconds": 526821000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "049432| 365\nNutrition Facts\n12/10.6\n3085149397\n0%\n% Daily Value\nand potassium.\nvitamin D, calcium, iron,\no%\nProtein 0g\ni2 servings per container\n028/2925\nAmount per\nCalories\n3 of 28\n49077\nSEED AND STOCK LLC\n1639\nTotal Carbohydrate <1g\n43020\nGrea\nceleried\n(315 \u0e17\u0e19L)\nsaturated fat, trans fat,\nIncl: Og Added Sugars\ncholesterol, dietary fiber,\nServing size 1 can(315mlL)\nNot a significant source of\nTotal Fat 0g\nSodium 35mg\nSRP\nWATER, JASMINE TEA, ASCORBIC ACID (V\nCase 0\nINGREDIENTS:\nITO EN UNSW GRN TEA JSM\nUnsw\n35143 91739\nTotal Sugars 0g\nTask 46168343\n623-5412\n1267185\nNROLOOS\n43020\nPURIFIED WATER, JASMI",
+        "__collections__": {}
+      },
+      "8qETbNdn9j2TcECxihjr": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863369,
+            "_nanoseconds": 219696000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "02728/2025\n4639\n761\nSRP 0\nCase 0\nA 1 of 1\nTask 46168343\n607-2612\n1267184\nNROLOOS\n43020\n98999 01000\n43020\n049432\n3085155169\nV COCO 100% COCONUT WTR\n26504 12/17 OZ\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "94pMDJD1Qbs5VIYqE83x": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864043,
+            "_nanoseconds": 679685000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "G67-5711\nCase 0\n4.0 4639\n65542 6/4/12 0Z\nSEED AND STOCK LLC\n43U2U 02728/825\nBOYLAN CANE COLA\n3085157095\nNROLOOS\n1267184\n43020\n049432 573\nSRP 0\nA. 2 of 2\nTask 46168343",
+        "__collections__": {}
+      },
+      "9IMMyfqLyg0rQodavMiB": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863259,
+            "_nanoseconds": 179152000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "41244 10233\n43020\n049432 380\nGROW\nSRP 0\nOG2 MARTIN APPLE JUICE\nGROWN\nTask 46168343\n010-2721\n1267184\nNROLOOS\n4639\n45118\nSEED AND STOCK LLC\n12/10 0Z\nCase 0\n02/28/2025\n43020\n4.0\nU.S.\n3085154636",
+        "__collections__": {}
+      },
+      "AXyN5QmfeaFolmXIiFqM": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864211,
+            "_nanoseconds": 227727000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "SAP 0\n5 of 5\nTask 46168344\n43020\n36534 24/1.5 02\n4. 0\n1267 187\n4639\nYRIVEROSHURTAL SEED AND STOCK LLC\n3085159181\n650-8811\n10091 78048\nCase 0\nSIETE POTCHIP SSLT VINGR\n43020\n049432 744",
+        "__collections__": {}
+      },
+      "AZglQdWxRXRrlcXdVm5T": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854916,
+            "_nanoseconds": 157480000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Task 46168406\n2651 03\nBESPINOZA\n21285\nA 10 of 13 0G2 SUJA IMMUNE STRWBRY\n09319 6/12 0z\nSEED AND STOCK LLC\n573\nSU\n18617 02269\n049432\nCase 0\n4.0\n3085156814\n4639",
+        "__collections__": {}
+      },
+      "AaieYwoWtMu4vxgRDLxf": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861907,
+            "_nanoseconds": 447631000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "8 of 9\nTask 46168344\n109141\n4639\nSRP 0\n655-6112\n1267187\nYRIVEROSHURTAD\n80999\n43620\n049432\n70\nOG2 LE PCRN HIMLYN PINK\n18/.88 02\nCase 0\n73020\n\u0414.O\n40722\nSEED AND STOCK LLC\n970\n6278872825\n3085159723",
+        "__collections__": {}
+      },
+      "AhwzRGcaeaI7cURFmBA7": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854876,
+            "_nanoseconds": 766559000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Task 46168406\n7173\nPINOZA\n02/28/2825\n4639\n6/12 OZ\n63813\nSEED AND STOCK LLC\nA 12 of 15\n28-6611\n573\nSRP 0\n3085156340\nCase 0\nOG2 SUJA GT HLTH ELDR GN\n18617 02370\n43020\n049432",
+        "__collections__": {}
+      },
+      "BTyyFo4yfiEf1DCVDLJA": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862299,
+            "_nanoseconds": 171674000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "02/28/225\nTask 46168343\n12/10.6 Z\n573\nSRP 0\n4639\n43020\n4.0\n35143 101739\n849432\n1267185\nNROLOOS\nCase 0\n\u30b9\u30df\u30f3\u8336\uff09\n127 FL OZ\nG23-5412\n3085157514\nITO EN UNSW GRN TEA JSMN\n19 of 28\n49077\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "BVdqAG44TLxvD2m7rAQs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740769070,
+            "_nanoseconds": 470807000
+          }
+        },
+        "invoiceSnippet": "947",
+        "text": "67276 8/4.44 02\nSEED AND STOCK LLC\nTask 44614692\nTNYS TINY CRML SLT POUCH\n11/29/2824\n43020\n5.0\n4630\nCase 0\n947\n2968649290\n50032 67634\n43020\nSRP 0\nA 1 of 3\nG19-2612\n1046510\nTGREENE\n049145",
+        "__collections__": {}
+      },
+      "BeUX43IBEtmLZiC0Fdte": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863219,
+            "_nanoseconds": 45603000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Case 0\n49077\nSEED AND STOCK LLC\n43020\n049432 365\n1223-5412\nProtein 0g\nJasmin\u00ea\nER, JASMINE TEA, ASCORBIC ACID (V'\nNROL O08\n02/28/20251\n4639\n12/10.6\nveetene\n(315 mL)\nSRP O\nITO EN UNSW GRN TEA JSMN\n3 of 28\n3085149397\n& Dally Value\nGreen Tea\nCarbohydrate <1g\nTotal Sugars 0g\nIncl: Og Added Sugars\n35143 01739\n43020\n4.0\nTask 46168343",
+        "__collections__": {}
+      },
+      "Bf4GOncZIKB1hhbPybTc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856105,
+            "_nanoseconds": 349941000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "$1g0\n1267173\n43020\n18\n970\nSRP 0\n4639 3085159303\n049432\n8.\n98248 00100\n43020\nSIGGIS FF SKYR YOG PLAIN\nO HOT STACK\nA 3 of 3\nTask 46168406\nC75-4612\nBESPINOZA\n04-16\n11984 12/5.3 02\nSEED AND STOCK LLC\nCase 0\nTHAW\n4.0",
+        "__collections__": {}
+      },
+      "Bf8Azgusp1c0bxLASZqf": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854655,
+            "_nanoseconds": 339329000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SRP 0\n6 of 6\n73020\n4.0\n18/28/2125\n4639\nBESPINOZA\nSEED AND STOCK LLC\nMUSH VAN BEAN OVRNGT 0A1\n78870\nCase 0\n573\nTask 46168406\n50093 99415\n43020\n049432\nC78-8912\n1267173\n3085156432\nO-PAL",
+        "__collections__": {}
+      },
+      "BsoGeYEDucFYORvMpqxj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855600,
+            "_nanoseconds": 604995000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "2/128 OZ\n43020\n049432\n3085148666\nCase 0\n14454\nSEED AND STOCK LLC\n02/28/2025\n70852 00023\not\nTask 46168406\nC71-5623\n1267173\nBESPINOZA\nOG2 CLVRSN FAT FREE MILK\n4639\n365\nSRP 0\n43020\n4.0",
+        "__collections__": {}
+      },
+      "CABilIEGokngCkQT8BaD": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861792,
+            "_nanoseconds": 542425000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "OG2 JST TEA MRCN MNT GRN\nQp\nIS BRO HEN\n17750\nSEED AND STOCK LLC\nTask 46168343\n12/16 0Z\ns\uff09 NO\n1267185\nNROLOOS\n2 of 2\n4.0\n4639\nPOPS UP\n2.\nSRP 0\nCase 0\n620-7112\nIGINAL\n02/28/2025\n95372 73104\n43626\n049432 970\n43020\n3085159464",
+        "__collections__": {}
+      },
+      "CKYauMwA1g2FQ7Xvtfaz": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854732,
+            "_nanoseconds": 139065000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\nTHIS\nTHIS PRODUCT IS HOT IN\n74209\nSEED AND STOCK LLC\nOG2 SUJA PBTC SHT VT DIZ\nV261 113\nBESPINOZA\n82 28/0023\n4639\nA 2 of 6\nC86-8722\n10/2 O2\nTask 46168406\ne, LLC\n24057\nEVALUATED BY THE FOOD AND DRUG ADM TO DIAGNOSE, TREAT, CURE, OR PREVENT\n18617 02360\n43828\n049432 573\nSRP 0\n3085156517",
+        "__collections__": {}
+      },
+      "CdKAmtXr2QtpXexkGo1T": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861983,
+            "_nanoseconds": 368497000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "43020\nCase 0\nYRIVEROSHUR TAL, SEED AND STOCK LIC\nSRP 0\nSIETE KTLCKD POT CHIPS\n16573 3/6/1.5 Z\n639-7812\n1267186\n970\n02/28/2925\n4639\n3 of 5\nTask 46168344\n4.0\n3085159570\n10091 78051\n43020\n049432",
+        "__collections__": {}
+      },
+      "CxEJ1K5to0CCUG7LM0Kj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855814,
+            "_nanoseconds": 169605000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "3085158412\nCase 0\nSupporta Dige\n02/28/2025\n4639\nOLIPOP SPK TNIC GRAPE\n66090 12/12 02\n4.0\n1 of 4\nTask 46168406\nC69-1212\n1267173\nBESPINOZA\n43020\n813\nSRP 0\nSEED AND STOCK LLC\nUR 109\n60003 22339\n43020\n049432\n\u0661\u0661\u0661\u0665\u0665\u0663 \u0665\u0668\u0661\u0662\u0660",
+        "__collections__": {}
+      },
+      "D5KN2U7Yc6uFLqomRZVs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854866,
+            "_nanoseconds": 760310000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267173\nBESPINOZA\n43020\nOZEN\n208 00508\n54208 00508\n43020\nSEED AND STOCK LLC\nTask 46168406\nC81-5912\n573\n049432\nSRP 0\nOG2 SUJA MIGHTY DOZEN\n34341 6/12 02\n518\nCase 0\n02/28/2025\n6 of 10\n4639\n43020\n149422 |\nSRP 0\n3085156647",
+        "__collections__": {}
+      },
+      "DIzs9MUwdXff9kJSmhIW": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854962,
+            "_nanoseconds": 69603000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "186168406\n126717)\nBESPINOZA\nP13020\nOG2 SUJA GT HLTH ELDR GN\n18617 02370\n6/12 OZ\n573\nSRP 0\n3085156371\nCase 0\n4639 F\n43020\n049432\n63813\nSEED AND STOCK LLC\nof 15",
+        "__collections__": {}
+      },
+      "DUq38Adwbk63zIHAmnfe": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855556,
+            "_nanoseconds": 906214000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "761\nTask 46168406\n0G2 CLVRSN VITAMN D MILK\n4.0\n14451 2/128 02\n1267173\nSEED AND STOCK LLC\n43020\nSRP 0\n43020\n049432\n3085155138\nBESPINOZA\nC74-5212\n70852 00020\nA 13 of 13\n02/28/2025\n4639\nCase 0",
+        "__collections__": {}
+      },
+      "DdMLt1MlN5O7CunEQl4t": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854669,
+            "_nanoseconds": 371719000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "43020\n049432 573\n93966 00954\n11450\nSEED AND STOCK LLC\nSRP 0\n10/20/2105\n4639\nTask 46168406\nC77-6711\nBESPINOZA\n1267173\n3085156227\nCase 0\n8-PAC)\n12/8 OZ\nOG2 O.V. STRINGLES CHS",
+        "__collections__": {}
+      },
+      "DrPP9yA1dW7SJ3YPS5ZW": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855615,
+            "_nanoseconds": 458178000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "43020\n049432 365\n2/128 OZ\nTask 46168406\n43020\n4.0\n3085148628\n-J\nC71-5623\nBESPINOZA\n1267173\nA 20f9\n14454\nSEED AND STOCK LLC\nCase 0\n80/28/2025\n0G2 CLVRSN FAT FREE MILK\nSRP 0\n70852 00023\n4639",
+        "__collections__": {}
+      },
+      "DuLHT1HGh0hPc7d86B7v": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855595,
+            "_nanoseconds": 334558000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "365\n43020\n4.0\nA 40f 0f9\nTask 46168406\nC71-5623\n1267173\nBESPINOZA\nSEED AND STOCK LLC\n02/28/2025\n3085148642\nCase 0\n70852 00023\n43020\n049432\nSRP 0\nOG2 CLVRSN FAT FREE MILK\n14454 2/128 02\n4639",
+        "__collections__": {}
+      },
+      "EAPMDLxBuIbygZ6WjPym": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854825,
+            "_nanoseconds": 626716000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\n6/12 02\n80r8878825\n4639\n2025\nOG2 SUJA MIGHTY DOZEN\n573\nSRP 0\n7085156661\n8 of 10\n34341\nSEED AND STOCK LLC\nDozen 12oz/Bak\nTak 46168406\n54208 00503\n43028\n049432\nBast By:",
+        "__collections__": {}
+      },
+      "EV6VonKn9dh2uiFv0vQ1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863380,
+            "_nanoseconds": 959267000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "1 of 1\nTask 46168343\n687-2612\n1267184\nNROLOOS\n143020\n049432\n3085155169\n761\nSRP 0\n02/28/2025\n12/17 OZ\n98999 01009\n43020\nCase 0\n4639\nV COCO 100% COCONUT WTR\n26504\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "EXcECD8k6sSemL8t6lmd": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861927,
+            "_nanoseconds": 588562000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "2 of 4\nTask 46168344\n1267187\n51562 00701\n02728/2825\n12/1.6 02\nTGCC ORIG POTATO CRISPS\n049432 970\n3085159655\nCOMFANY\nBOULDER, CO 80302\nINFO@THEGOODCRISPCOMPANY\n648-7312\nVIVE ROSHURTALI SEED AND STOCK LLC\n43020\nSRP O\n52656\nCase 0",
+        "__collections__": {}
+      },
+      "EsgbAjhPz7HQ0HK6FUOZ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855560,
+            "_nanoseconds": 730379000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "02/28/2025\nCHO STRW YOG ZRO SGR\n3085155145\n11247\n12/5.3 0Z\n18290 01829\nCase 0\nC80-5221\n1267173\nBESPINOZA\n43020\nSRP 0\n4639\nSEED AND STOCK LLC\n43020\n049432 761\n1 of 1\nTask 46168406",
+        "__collections__": {}
+      },
+      "EvHtDrZ09Xs84vHXXvPc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864196,
+            "_nanoseconds": 53022000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "1744\n4639\nG47-2225\n1267187\n3020\n/RIVEROSHURTALI SEED AND STOCK LLC\nTask 46168344\n02/28/2025\n64274\nCase 0\nOG2 MAV FRT/BT MNGO/CHLI\nSRP 0\n3085159174\n59758 00393\n43020\n049432\n\u2022 0\n1 of 1\n8/1.94 02",
+        "__collections__": {}
+      },
+      "EvYYCf9hHZYC2HIZBaWk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864255,
+            "_nanoseconds": 477860000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "02/28/20251\nNROL DOS\n13020\nTask 46168343\nG28-2522\n1267185\nNROLOOS\n143020\n2 of 2\n1287185\nON C\nSRP 0\n4639\n3085162242\n1 of 2\n88849 00386\n43020\nQN CKIES CREAM BAR 4PK\n5/8.5 OZ\nask 46168343\nCase 0\n05110\nSEED\n05110\nSEED AND STOCK LLC\n049432 762\n628-2522",
+        "__collections__": {}
+      },
+      "EwPc4QmNmgt4L9tPtJEF": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864405,
+            "_nanoseconds": 338482000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "epis:\nG12-7623\net.\n1267184\nNROLOOS\n43020\n02/28/2M25\n4639\nCase 0\n\u043e\u043b\u0435\u0434\n44323 24/11.4\nSEED AND STOCK LLC\n365\nSRP O\n35169 22222\n\uae30\ubbf8\ubbf8\uae30\n2 of 3\nTask 46168343\n43820\n049432\n3085149090\nUCC RTD COFFEE ORIG BLND",
+        "__collections__": {}
+      },
+      "F9MwZgdqGvwlRkgkRzJz": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864124,
+            "_nanoseconds": 549758000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "80028 12/16.902\nTask 46168343\nNE OLI\nNROLOOS\nCase 0\n3085158047\n2 of 2\nG05-8211\nSRP O\n02/28/2025\n4639\n35143 00001\n143020\n4.0\nOG2 TEAS TEA GREEN TEA\nSEED AND STOCK LLC\n43020\n049432 838\n1267184\nITOEN",
+        "__collections__": {}
+      },
+      "FeQqD2ehEO8oDEjhb6Ep": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855673,
+            "_nanoseconds": 950045000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "380\nSRP 0\n70852 00020\n43020\n049432\n14451\nSEED AND STOCK LLC\nCase 0\n3085154575\n4639\n43020\n4.0\n02/28/2025\nTask 46168406\nC74-5212\n1267173\nBESPINOZA\nONO.\nA 12 of 13 0G2 CLVRSN VITAMN D MILK\n2/128 OZ",
+        "__collections__": {}
+      },
+      "G63C4cm9ieYVOetEp73f": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863263,
+            "_nanoseconds": 683970000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "02/28/2023\n4639\nSRP 0\nCase 0\nA 1 of 1\nTask 46168343\nG10-2721\n1267184\nNROLOOS\nOG2 MARTIN APPLE JUICE\n049432 380\nGROWN\n3085154636\n41244 10233\n73020\n14.0\nGAC\nU.S.\n45118 12/10 02\nSEED AND STOCK LLC 43020",
+        "__collections__": {}
+      },
+      "G90NKuGvJlVvuzYi9ybs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863341,
+            "_nanoseconds": 13029000
+          }
+        },
+        "invoiceSnippet": "670",
+        "text": "SEED AND STOCK LLC\n(192) 11 998 |\nLACROIX ORANGE SPARKLING\n43171 2/12/1202\nCase 0\n049432\nITytHas\n43020\n670\nSRP O\n73360 61341\n43020\n3085153738\n1 of 1\nTask 46168343\n604-4212\n1267184\nNROLOOS",
+        "__collections__": {}
+      },
+      "GZp8xZYvLabIeBaSM5ws": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855486,
+            "_nanoseconds": 540616000
+          }
+        },
+        "invoiceSnippet": "623",
+        "text": "13020\n4.0\n02/28/2025\nSMPLY LMNADE ALL NATR\n69132 6/52 02\n25000 04498\n43820\n049432\nSRP/\nCase 0\n3085158160\nTask 46168406\n623\nA 1 of 1\nC70-4011\n1267173\nBESPINOZA\n4639\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "GlvmH7M779SWHz7t0hri": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863214,
+            "_nanoseconds": 793096000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "365\nSRP 0\nyeetened.\n1315 \u0e17L)\n13020\nJasmine-Green Tel\n4639\nCase 0\n49077\nSEED AND STOCK LLC\n35143 01739\nAdded Sugars\nTask 46168349\n43020\n049432\nJASMINE TEL, ASCOREIC ACID (V?\nBally\n12/10.6 2\nITO EN UNSW GRN TEA JSMN\nS8851\u00f79397\n\u7ffb\u7cd5\nof 28\n2V.",
+        "__collections__": {}
+      },
+      "HTYRofjCRZaaFFW3qkGQ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864176,
+            "_nanoseconds": 879547000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "0'7\n0208H\nSOO 10UN\nZOS E/D/9\nZ6779\nSEED YOUR SOU\n049432 744\n5651600225\n1267185\naST6SISSeS\nSEED AND STOCK LLC\nG39-3311\nTask 46168343\nSRP O\nCase 0\nOG2 M.C. GRN MAGIC SOZ\nORGANIC\n689t\nMam vasochia",
+        "__collections__": {}
+      },
+      "Hd7xYaEsRDqB5wF1n7iP": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861890,
+            "_nanoseconds": 854413000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "3085159730\n43020\nOG2 LE PCRN HIMLYN PINK\n40722 181.88 02\n970\nYRIVEROSHURTAI SEED AND STOCK LLC\n8099900141\n43020\n049432\n02/28/2025)\n4639\nSRP 0\nCase 0\n9 of 9\nTask 46168344\n655-6112\n1267187",
+        "__collections__": {}
+      },
+      "HgWY7sUgwcqH4GfGFlVS": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863010,
+            "_nanoseconds": 466661000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "Hiyd\nCase 0\n43020\n4.0\n8-9\nLTTL CKIE BR CHC CRM CML\n02057 6/3.4 02\n02/28/2425\n3085153301\n1 of 1\nTask 46168344\n651-2121\nYRIVEROSHURTAL, SEED AND STOCK LLC\n43020\n049432\n653\nSRP 0\n4639",
+        "__collections__": {}
+      },
+      "HhihgSY19NtBqwYWhnJs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862290,
+            "_nanoseconds": 636116000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Added Suga\nProtein 0g\nINGREDIENTS:\nPURIFIED WATER, JASMINE TEA, ASCORBIC ACID (VITAMIN C).\nNot a significant source or\nNROLOOS\nasmine-\nNutrition fag\nsaturated fat, trans fat,\n3085157521\nCase 0\nSRP 0\n573\n35143 01739\n43020\n049432\nSreen Tel\nUnsveet\u00e9ned\n10,6 FL OZ (315 ml)\n02/28/2025\n4639\nTask 46168343\n623-5412\n1267185\nServing size 1 can(?\nor strung\ncholesterol, dietary fiber,\nTotal Sugar\nvitamin D, calcium, iron,\nand potassium.\n43020\n1OT\n49077 12/10.6 \u0433\nB 20 of 28 ITO EN UNSW GRN TEA JSMN\n12 servings per con\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "HlKaSbHwimAv53YQ1VWg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863130,
+            "_nanoseconds": 2751000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "43020\n5.0 4630,\nG12-3112\n1730171\n1348\nSRP 0\nJCIFUENTES\n751400\n2804017986\nSEED AND STOCK LLC\nA 20 of 36 CG ALPINE SPRING WATER\nTask 42312831 27442 1/35/16.9\n048728\nCase 0\n35001\n43020",
+        "__collections__": {}
+      },
+      "HsF8apqbUkotAuqnlphY": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861883,
+            "_nanoseconds": 595168000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "20 g\n\u2022 16S\nSRP 0\nRuedwos\n4 of 4\nTask 46168344\n\"B\nNON\nG48-7312\n1267187\nYRIVEROSHURTALI SEED AND STOCK LIC\n3085159679\n515621\n43020\n049432\nCase 0\nTGCC ORIG POTATO CRISPS\n43020\n027/2872025\n4639\n09701\n52656 12/1.6\n4. 0",
+        "__collections__": {}
+      },
+      "HvJcBAJeLC7PednhdIid": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854955,
+            "_nanoseconds": 993813000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Task 461684 06\n573\n00\n09319\nSEED AND STOCK LLC\n3085156821\n4639\nA 11 of 13 OG2 SUJA IMMUNE STRWBRY\nF I|\n02/28/20251\n43020\n4.0\n18617 02269\n43020\n049432\nC81-7021\nCase 0\nSRP 0\n6/12 OZ\n1267173\nBESPINOZA",
+        "__collections__": {}
+      },
+      "I1RUX7cusmeo7PuyJuDx": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854861,
+            "_nanoseconds": 411603000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SRP 0\n3085156616\n43020\n049432\n573\nOG2 SUJA MIGHTY DOZEN\n34341\nSEED AND STOCK LLC\n6/12 OZ\n3 of 10\n8168406\n54208 00508\nCase 0",
+        "__collections__": {}
+      },
+      "IXdjpJhfBnpwkGnfBqzZ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863014,
+            "_nanoseconds": 603163000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "Do not op\n19151 7/7.2 02\ndual units.\n10039 91061\n02/28/20251\n3085153288\n650-4723\nYRIVEROSHURTAL SEED AND STOCK LLC\nSRP 0\nase\n1 of 1\nCase 0\nOG2 GOMACRO PBTR CCHP 8C\n43020\n049432 653\n4639\nTask 46168344",
+        "__collections__": {}
+      },
+      "IjNcHQPmSjG3s8z1vocq": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855618,
+            "_nanoseconds": 227916000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "43020\n049432\n3085148734\nA 6 of 13\n02/28/2025\n70852 00020\n365\nSRP O\nTask 46168406\nC74-5212\n14451 2/128 02\nSEED AND STOCK LLC\n4639\n6 of 13 0G2 CLVRSN VITAMN D MILK\n1267173\nBESPINOZA\nCase 0",
+        "__collections__": {}
+      },
+      "IujgPzS4rVjxxuRqd7Uy": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855589,
+            "_nanoseconds": 219871000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "3085148758\nOG2 CLVRSN VITAMN D MILK\n43020\n4.0\nC74-5212\n1267173\nBESPINOZA\n02728/20251\n14451\n049432\nCase 0\n2/128 OZ\n4639\n70852 00020\n43020\n365\nSRP O\nof 13\nTask 46168406\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "JpdD7ai0FXVJmggRqWEn": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854882,
+            "_nanoseconds": 870360000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "3085156746\n4639\n18617 02269\n02/28/2025\nSEED AND STOCK LLC\n1267173\nBESPINOZA\n43020\n049432 573\n$ of 13 0G2 SUJA IMMUNE STRWBRY\n168406\nCase 0\n09319\nSRP 0\n6/12 OZ",
+        "__collections__": {}
+      },
+      "JunOWVmH2DC3fhOYnoMc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864168,
+            "_nanoseconds": 660108000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "36534 24/1.5 02\n126167\nYEIVEROSHURTAI SEED AND STOCK LIC\n10091 79048\n4.0\n3055159181\nCase 0\n5 of 5\nTask 46158342\n4539\n43020\nSIETE POTCHIP SSLT VINGR\n049432 744\n056-8811",
+        "__collections__": {}
+      },
+      "KMnNLxKvZRtEzlgqpMdg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864333,
+            "_nanoseconds": 227087000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "G41-6211\n43020\n049432/380\n1267186\nYRIVEROSHUR TAI SEED AND STOCK LIC\n03283 18/.88 0Z\n4639 3085155015\nCase 0\n55469 00691\nSRP 0\nSNA\n13020 02/28/2025\nTask 46168344\nOG2 LE PCRN HIMLYN GLD\nA 5 of 7",
+        "__collections__": {}
+      },
+      "KSLwucd1JKznbCw5GoiB": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864139,
+            "_nanoseconds": 606053000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "02/28/20251\nCase 0\n4639\nITO EN\nTask 46168343\nA 20+2\n605-8211\n1267184\nNROLOOS\nITOEN\nOG2 TEAS TEA GREEN TEA\n80028 12/16.902\n35143 00001\n43020\n049432\n838\nSRP 0\nSEED AND STOCK LLC\n43020\n4.0\n3085158047",
+        "__collections__": {}
+      },
+      "KljAj0QBi7a7txoWgSFJ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855640,
+            "_nanoseconds": 106436000
+          }
+        },
+        "invoiceSnippet": "381",
+        "text": "Retrigerater\n4639\n4.0\nC70-6412\n1267 173\nBESPINOZA\n43020\nCase 0\nOLIPOP SPK TNC TROP PNCH\nSRP D\n70204\nA 10f1\nTask 46163405\n3085154186\n50027\n43620\n049432 381\n16095 12/12 0Z\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "Kv7z3CBIzsJe0NZCQttj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863402,
+            "_nanoseconds": 649597000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "02/28/2025\nQN CKIES CREAM BAR 4PK\n4639\n762\nSRP 0\n5/8.5 02\nCase 0\n43020\n4.0\n88849 00386\n43020\n2 of 2\nTask 4616834 3\nG28-2522\n1267185\nNROLOOS\n3085162259\n049432\n05110\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "L3fMQnbHKUw5vsgf8Tkz": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863137,
+            "_nanoseconds": 263051000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "G12-3112\n15.0\nSRP U\n75140 35001\n19/2024\n2804018037\n1730171\n048728\nA 25 of 36 CG ALPINE SPRING WATER\nJGIFUENTES\n348\nTask 42312831\nSEED AND STOCK LLC\n4630\n27442 1/35/16.9\n43020\n\"Case O",
+        "__collections__": {}
+      },
+      "LnYDb3qjZq4z5aAFUJqK": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862414,
+            "_nanoseconds": 92186000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "10.6 FLO ALUMINUM CAN\n3085157460\nof 29\nSEED AND STOCK LLC\n12/10.6 2\n43020\nof 29 ITO EN UNSW GRN TEA OCHA\nmount per serving\nCalories\nTotal Fat 0g\nSodium 30mg\nTotal Carbot\nTotal e\n1267185\nTask 46168343\n78L\n49075\nritie\nngs,.\nze 1 can (315mL)'\ncha\ntened\nTea\nant source of ans fat,\niry fiber,\niron,\n22\n4.0\n43020\nNROLOOS\n4639\n622-2111\nCase 0\n049432\nSRP\n573\n3514301726\n- container\n% Daily Value",
+        "__collections__": {}
+      },
+      "MfzMEKNgifB7y7vnovCb": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864121,
+            "_nanoseconds": 183053000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "ITOEN\n3514300001\n80028\nSEED AND STOCK LLC\n43020\nG05-8211\n43020 02/28/2025\n4.0\n4639\nSRP 0\n3085158047\nTask 46168343\n12/16.90Z\nOG2 TEAS TEA GREEN TEA\nNROLOOS\nA 2 of 2\n849432 838\n1267184",
+        "__collections__": {}
+      },
+      "MyQpyu49YI4Go71PCxdc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854774,
+            "_nanoseconds": 837956000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\nSRP O\n4.0 4639\n1h..\nTask 46168406\nC80-5412\n1267 173\nBESPINOZA\n43020\nA 2 of 6\n02/28/2025\n\u0e08\u0e31\u0e07\u0e2d'\u0e40\u0e27\u0e25\u0e42\u0e14\u0e40\u0e04\u0e34\u0e25\u0e14\nOG2 SUJA WLNS SHOT IMNTY\n41731 10/2 02\nSEED AND STOCK LLC\n3085156456\n\"1\n1861702088\n43020\n049432\nCase 0",
+        "__collections__": {}
+      },
+      "NS1EAS31WuvsgTvRZvbJ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856084,
+            "_nanoseconds": 736329000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "3085159334\nC77-4912\n1267173\nBESPINOZA\n11989 12/5.3 02\nSEED AND STOCK LLC\nCase 0\n9824800107\n43020\n43020 02/28/2025\n1H913\n4.0 4639\nB6E\n049432\nTINVA\n970\nSRP 0\n1 of 3\nTask 46168406\nSIGGIS FF SKYR YOG VAN",
+        "__collections__": {}
+      },
+      "NmetNEex9KNQGeoSeieT": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862460,
+            "_nanoseconds": 272393000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "2 of 5 WT MNI SKNYDP ALM COCOA\n049432\n4639\n3085157262\n48182 241.46 0Z\nSEED AND STOCK LLC\n65797 00005\n43020\n4.0\nCase 0\n573\nSRP 0\nTask 46168343\nG19-5532\n1267185\nNROLDOS\n73020 0228/2025",
+        "__collections__": {}
+      },
+      "O5EC88hQyV8pFnx9YqZG": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864053,
+            "_nanoseconds": 248692000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "43020\n049432\n04206\nSEED AND STOCK LLC\n02/28/2025\n3085157170\n573\nSRP 0\n1 of 1 CLI CACTUS WATER GNGR LM\n43020\nCase 0\n4.0\nG15-6141\n1267185\n4639\n12/12 O2\n53240 00426",
+        "__collections__": {}
+      },
+      "OE1TjTRc452Ev5Ampl0x": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862106,
+            "_nanoseconds": 747280000
+          }
+        },
+        "invoiceSnippet": "821",
+        "text": "31741\n4639\n24/1.5 02\nCase 0\n8411411272\n43020\nSRP 0\nA 4 of 7\nG45-5711\nYRIVEROSHURTAI SEED AND STOCK LLC\n19\n3085156111\n43020\n4.0\n049432 821\n02/28/2025\nKETTLE JALAPENO CHIPS\nTask 46168344\n1267186",
+        "__collections__": {}
+      },
+      "OGL8Bdea3dpC2RyepORL": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862316,
+            "_nanoseconds": 879479000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "35143 01739\nN3 OLI\n3085157538\n12/10.6 Z\n4639\nTask 46168343\nG23-5412\n00\n02/28/2025\n\u7f8e\u5473\u3057\u3044\n30\u7267\u7f8e\nSRP 0\n\u30b8\u30e3\u30b9\u30df\u30f3\u8336\n49077\nSEED AND STOCK LLC\n43020\n049432 573\nCase 0\n1267185\nNROLOOS\n73020\n4.0\n21 of 28 ITO EN UNSW GRN TEA JSMN",
+        "__collections__": {}
+      },
+      "OJTaHmHiq4q6aNLdkrbC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861785,
+            "_nanoseconds": 269340000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "A 1 of 2\nTask 46168343\nG12-6111\n1267184\nNROLOOS\nA3U20\n4.0\n02728/2025\n95372 53155\n43020\n049432 970\nSEED AND STOCK LLC\n4639\n3085159419\nOG2 JST TEA HLF HLF LMND\n17748 12/16 02\nSRP 0\nCase 0",
+        "__collections__": {}
+      },
+      "OrOjYeiVwiO14BqJWIgC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855716,
+            "_nanoseconds": 615581000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "1267173\n0G2 CLVRSN VIT D MILK\nCase 0\nHPEREZ1\n88630\nSRP O\n43020 02728/2825\n6/1.89 LT\n3085154483\n2 of 2\n4. \u0431\n70852 00012\n049432 380\nTask 46168406\nSEED AND STOCK LLC\nC69-3712\n4639\n43020",
+        "__collections__": {}
+      },
+      "PBML7dgdvRDhcPGudA17": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863372,
+            "_nanoseconds": 737721000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "02/28/2025\n98999 01000\n43020\n049432 761\nSRP 0\n43020\nCase 0\n3085155169\n26504 12/17 0z\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "PBv6F9AenGbSRpFuP6wQ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863312,
+            "_nanoseconds": 439039000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "1267 185\n43020\n12/28/2025\n3085158887\n16762 4/6/1 02\nSEED AND STOCK LLC\n1539\nANG BCP SWEET & SALTY\n049432\n813\nSRP 0\n2 of 3\n18730 61208\nDISTRIBUTED BY:\nANGIE'S ARTISAN TREATS, LLC\nCase 0\nTask 46168343\n635-6811\nNROLOOS\n13820",
+        "__collections__": {}
+      },
+      "PXECyjQeHWVlKNhPSQ2F": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855784,
+            "_nanoseconds": 838900000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "813\nSRP 0\n3085158474\n12/12 0Z\nOLIPOP SPK TNIC ORNG SOZ\n02728/2025\n4639\n37588\nSEED AND STOCK LLC\nA3020\n14.0\n3 of\nTask 46168406\nC69-2212\n1267173\nBESPINOZA\n6043 00108\n43020\n049432\nCase 0",
+        "__collections__": {}
+      },
+      "QuzyaAFrEKji3LfyLyBk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856092,
+            "_nanoseconds": 931633000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "13764 02713 11l8\n02/28/2025\n970\nSRP 0\nTask 461684 17\nOG2 DKB 21 WG THIN BREAD\n23717 10/20.5 02\n3085159365\nF96-6612\n1267191\nGSANTOS\nSEED AND STOCK LLC 43020\n049432\n43020\n4.0\nCase 0\n4639\nREAn\nTHAW BREAI BEFORE STOCKING - DO NOT STAC\nS.\u0417AV\u041e",
+        "__collections__": {}
+      },
+      "R1k8AEGPdfdjKNd5mLcJ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861799,
+            "_nanoseconds": 283087000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "SAFETY\n0G2 JST TEA HLF HLF LMND\n153155\nan\nTask 46168343\nG12-6111\n1267184\nNROLOOS\n43020\n02/28/2825\nSUTTON POPS UP I\nEN\n970\nSRP 0\nREJECT\n17748\nSEED AND STOCK LLC\n4639\nBROKE\n12/16 OZ\nCase 0\nDRIGINAL SEAL OS\nA 20f 2\n95372\n43020\n049432\n3085159426",
+        "__collections__": {}
+      },
+      "R8yOtnBQQAaZKnnkTSFf": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862363,
+            "_nanoseconds": 282749000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "18\nITO EN UNSW GRN TEA OCHA\n4.0\n43020\n049432\n3085157422\nc)\u2022\nTotal Fat 0g\nSodium 30mg\nTotal Carbohydrate < 1g 0%\nG22-2111\nNROLOOS\n^q Added Sugars\n1267185\n43020\n02/287\n4639\nnutrition Facts\n12 servings per container\nServing size 1 can (315mL)\n2%\n0%\nCase 0\n10.6 FL OZ (315ml)\nof 29\nTask 46168343\nTotal Sugars 0g\n49075 12/10.6 2\nSEED AND STOCK LLC\nch\nvitam\nand potass, Ingredients:\n35143 01726\nPurified Water, Green T6%\n573\nSRP 0",
+        "__collections__": {}
+      },
+      "RDDgwOayn2I07FSaLGw2": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863159,
+            "_nanoseconds": 20526000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "348\nSBP 0\n43620\n048728\nCase U\n4630\n2804018546",
+        "__collections__": {}
+      },
+      "RXGFxUpnx2JhfqXznkrX": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856123,
+            "_nanoseconds": 608508000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "43020\n4.0\nOG2 CLVRSN WHL MLK OMG3 -\n02/28/20251\nCase 0\n3085159266\nPRODU\nA 1 of 1\nTask 46168406\nC70-5311\n1267173\nBESPINOZA\n4639\nSRP 0\n33761\nSEED AND STOCK LLC\nFasture)\nORGAI\n70852 99416\n43020\n049432 970\n6/64 O2\nPROTECT",
+        "__collections__": {}
+      },
+      "RotxK02KU8rzZx0Ow4Xl": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863111,
+            "_nanoseconds": 183626000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "Case 0\n43028\n048728\nSRP 0\n1/35/16.9\n43020\n5.0\n348\n27442\n4630\n2924018020\nTast 42312831\n612-3112\n1730171 \u2022 SEED AND STOCK LLC\nJCIFUENTES\n5140455881\nA 24 of 36 CG ALPINE SPRING WATER",
+        "__collections__": {}
+      },
+      "SFmCGAEiZTcy4ZllN5lw": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864040,
+            "_nanoseconds": 467432000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "NROLOOS\nTask 46168343\n3085157651\n1 of 1\n42096\n628-8726\nOG2 ALOHA PB CUP DK CHOC\n4302U 60/2/2N25\nCase 0\n43020\n049432 573\nSRP 0\nSEED AND STOCK LLC\n1267185\n15333\n4639\n13691 6/5 CT",
+        "__collections__": {}
+      },
+      "SXw7QRxUnG8YboW09I7m": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854797,
+            "_nanoseconds": 246542000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1ddy\nGF -\nCase 0\nOG2 SUJA PBTC SHT VT DIZ\n43020\n049432\n573\nSRP 0\n: 46168406\nSey\n74209\nSEED AND STOCK LLC\nC80-8722\n1267 173\nBESPINOZA\n43020\n4639\n3085156524\nATTE\n10/2 OZ\n18617 02360",
+        "__collections__": {}
+      },
+      "T1EXLDnFGJXU5QJW1xKc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862156,
+            "_nanoseconds": 701339000
+          }
+        },
+        "invoiceSnippet": "821",
+        "text": "1267186\n#3020\nSRP\nYRIVEROSHUR TAL SEED AND STOCK LLC\nCase U\n3085156881\nA 3 of 3\nTask 46168344\n645-2912\n4.0\n10/200\n4639\n84114 11269\n43020\n049432 821\nKETTLE CHIPS SEA SALTED\n31734 24/1.5 02",
+        "__collections__": {}
+      },
+      "T2hlXsjpH16ziFmOMHRq": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864062,
+            "_nanoseconds": 631675000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "51562 00835\nCase 0\n3 of 5\nTask 46168343\n02/28/2025\n1267185\nNROLOOS\n48180 241.46 02\nSEED AND STOCK LLC\n573\n3085157323\n4.0\n43020\n4639\nG19-8442\nWT MNI SKYDP ALM LEM BL\nSRP 0\n43020\n049432\n00",
+        "__collections__": {}
+      },
+      "T70Ry6WFFTdgunKI8hIT": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863306,
+            "_nanoseconds": 566649000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "2 of 3\nANG BCP SWEET & SALTY\n02/28/2025\n4639\n16762 4/6/1 02\nSEED AND STOCK LLC\n049432\nDISTRIBUTED BY:\nANGIE'S ARTISAN TREATS, LLC\nTask 46168343\n635-6811\n1267185\nNROLOOS\n18780 01208\n43020\n813\nSRP 0\nCase 0\n3085158887\n43020\n4.0",
+        "__collections__": {}
+      },
+      "TKi9BInZrCMCuIqztxoN": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855495,
+            "_nanoseconds": 933850000
+          }
+        },
+        "invoiceSnippet": "623",
+        "text": "A 1 of 1\n1267 173\nC70-7212\nSEED AND STOCK LLC\n43020\n049432\nSRP 0\nTask 46168406\n43020 02/28/2025\nCase 0\n4639\nOG2 CLVRSN 1% LF MILK\n3085158177\nBESPINOZA\n70852 00022\n623\n14453 2/128 OZ",
+        "__collections__": {}
+      },
+      "TQBWewDROPkGgqkr5Vc6": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861990,
+            "_nanoseconds": 721612000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "TE VEROS HURTAD SEED AND STOCK LLC\nSIM GRND SSLT SNKPK CRKR\n970\n3085159597\nCase 0\n2 of 2\nTask 46168344\n09850 6/4.90\n43020\n049432\nSRP 0\n560691 00535",
+        "__collections__": {}
+      },
+      "TZSqSlwKQMQFubx1b3Kg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855609,
+            "_nanoseconds": 330263000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "365\nSRP 0\nFARMS\n52570 6/32 02\n2995\nC71-cad0\n1267 173\nSEED AND STOCK LLC\n02/28/2025\nCase 0\n3085148604\n2 of 2\nTesk 46160106\n13636\n43020\n049432\nCF OAT MILK BARISTA VAN\n43020\nA.0\n02345\n4639\nBESPINOZA",
+        "__collections__": {}
+      },
+      "TgPPSW31wLNRzBS19RWm": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863319,
+            "_nanoseconds": 885066000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "SRP 0\n18780 01208\n3085158887\n43020\n049432\n2 of 3\nSEED AND STOCK LLC\n8.\nANG BCP SWEET & SALTY\n16762 4/6/1 02\n813\nCase 0\nICAGO, IL 6O65:",
+        "__collections__": {}
+      },
+      "U1qUACDBL5M3hpy1TyJx": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854840,
+            "_nanoseconds": 280292000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\nA 6 of 15\nC78-6611\nOG2 SUJA GT HLTH ELDR GN\nSRP O\n1267173\nBESPINOZA\n63813\nSEED AND STOCK LLC\n02/28/2025\n4639\n6/12 OZ\nTask 46168406\n18617 02370\n43020\n049432 573\n4. 0\n3085156299\n43020",
+        "__collections__": {}
+      },
+      "V02ovJy1OHTB7IGfAXEi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864074,
+            "_nanoseconds": 354281000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267184\nNROLOOS\n43020\n4.0\n573\nSRP 0\n\u2022A 2 of 2 BOYLAN CANE COLA\n43020\n049432\n65542 6/4/12 0Z\nSEED AND STOCK LLC\n4639 3085157095\n002/28/2025\nCase 0\nTask 46168343\n687-5711\n60712 16001",
+        "__collections__": {}
+      },
+      "VCm6WBKtOBYtSWV0B9V4": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864400,
+            "_nanoseconds": 55788000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Task 46168343\nG12-7623\n1267184\nNROLOOS\n43020\nSEED AND STOCK LLC\nCase 0\n4639\nSRP O\n43020\n3516822222\n365\n3085149083\nA 1 of 3\n02/28/2025\n049432\n44323\nUCC RTD COFFEE ORIG BLND\n24/11.4 Z",
+        "__collections__": {}
+      },
+      "VCmBbLr7a2PkCnVPcVEr": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864068,
+            "_nanoseconds": 143823000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\n02728/2025\n4639\n60000 78036\n43020\n60625\nSEED AND STOCK LLC\n049432\nMELA WTRMLN WTR PASNFR1\n2 of 2\nTask 46168343\n1267185\n3085157392\n573\nSRP 0\n12/16.9 Z\n620-5011\nNROLOOS\n43020\n4.0",
+        "__collections__": {}
+      },
+      "VXJstOuuGUIiwd9KQq64": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861877,
+            "_nanoseconds": 289913000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "51562 00701\n43620\n3 of 4\nTask 46168344\nG48-7312\n1267187\n4639\n049432\n\u04183020\nVRIVEROSHURTAL, SEED AND STOCK LLC\n02728/2024\n3085159662\nCase 0\n970\n52656 12/1.6 02\nTGCC ORIG POTATO CRISPS\n4.0\nSRP 0",
+        "__collections__": {}
+      },
+      "VcW9DtP9k0mGS3KYdwLg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861824,
+            "_nanoseconds": 935690000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "Fruit Rolls\n43020\n1 of 4\n07779 6/3.5 0Z\nSEED AND STOCK LLC\n1267185\nTask 46168343\nG35-5512\nNROLOOS\n02/28/2025\nBEAR REAL FRT YOYO STWBR\n049432\n970\n3085159495\n4.0\nSRP 0\n17946 02007\n43020\n4639\nCase 0",
+        "__collections__": {}
+      },
+      "VkDDPTJlJiAstSEUCEIc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855724,
+            "_nanoseconds": 224326000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "Case 0\n380\nSRP 0\n16639\n049432\n4.0\n02/28/2025\n9 of 9\nTask 46168406\n70852 00023\n43020\n14454 2/128 0Z\nSEED AND STOCK LLC\n3085154506\nC71-5623\n1267173\nHPEREZ1\n43020\n0G2 CLVRSN FAT FREE MILK",
+        "__collections__": {}
+      },
+      "Vwj3RdDE4UaOW8xBtGiC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861933,
+            "_nanoseconds": 235165000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "51562 00701\n43020\n049432 970\n02/28/2025\n12/1.6 0Z\n1 of 4\n3085159648\nCase 0\nGMO\n4639\nTask 46168344\nG48-7312\n1267187\nYRIVEROSHURTAD\nSRP 0\nTGCC ORIG POTATO CRISPS\n52656\nSEED AND STOCK LLC\n43020\n4.0",
+        "__collections__": {}
+      },
+      "Vzq7HyuaW9S5td7aPhEr": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855517,
+            "_nanoseconds": 288833000
+          }
+        },
+        "invoiceSnippet": "995",
+        "text": "5556911035\n43020\n02/28/2025\n1 of 1\nTask 46168406\n89000\nSEED AND STOCK LLC\n049432 995\nSRP 0\n617 OZ\nOG2 PFT BAR DKCCHIP PBTR\n43020\n4.0\nC78-8612\n1267173\nBESPINOZA\nCase 0\n3085162525\n4639\nKEEP",
+        "__collections__": {}
+      },
+      "Wk8xMdvuZKnjGLIxcA41": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861921,
+            "_nanoseconds": 57292000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "1 of 5\n049432\n16573\nSEED AND STOCK LLC\n3085159556\n970\nSRP O\n1267185\n78051\n4639\n160911\n43020\nTask 46168343\n039-2812\nNROLO0S\n3020\nSIETE KTLCKD POT CHIPS\nCase 0\n3/6/1.5 Z",
+        "__collections__": {}
+      },
+      "WyZPYxj0Aqtaz28qnlZu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861862,
+            "_nanoseconds": 796686000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "Case 0\n649-6112\nYRIVEROSHURTAI SEED AND STOCK LIC\nSADO\n6 \u0448\n51562 00702\n43020\n049432 970\n1 of 4\nTask 46168344\n62/28/2025\n1639\nTGCC SCRM & ONION CRISPS\n52657 12/1.6 02\n1267187\n3085159696",
+        "__collections__": {}
+      },
+      "WyvcKYTN6PUxZbAxM8nr": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864083,
+            "_nanoseconds": 800385000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "12993 10161\n0 das\n049432 573\n02/28/2025\nLACROIX GRPFRT SPK WATER\n1267184\nCase 0\n3085156876\n43020\n2/12/120Z\nNROLOOS\n43020\n04389\nSEED AND STOCK LLC\n4639\n(GRAREFRUIT,\nSPARKLING WATER\n3 of 8\nTask 46168343\n604-1711\nNATURALLY",
+        "__collections__": {}
+      },
+      "X6oPIMwkwWNEV6Pe6bR1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864172,
+            "_nanoseconds": 643898000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "3085159129\nTNYS TINY CRML SLT POUCH\n67276 8/4.44 0Z\nSEED AND STOCK LLC\n50032 167634\nCase 0\n4639\n1 of 2\n02/28/20251\nTask 46168343\n019-2612\n1267185\nNROLOOS\n43020\nSRPO\n049432 744",
+        "__collections__": {}
+      },
+      "XEgGvlrXTopCh6SqLxeO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861804,
+            "_nanoseconds": 976629000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "3085159457\n43020\n4.0\n4639\nVAHM\nOG2 JST TEA MRCN MNT GRN\nFETY\nGINAL\n1 of 2\nTask 46168343\nSA\nOR\nSRP 0\n620-7112\n02/28/2025\n95372 73104\n12/16 OZ\n17750\nSEED AND STOCK LLC\nCase\n43820\n049432 970\n1267185\nNROLOOS",
+        "__collections__": {}
+      },
+      "XIffmR1g27Bne2HBaPVO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861810,
+            "_nanoseconds": 740545000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "S.D SPRKLNG GRAPFRUIT\n970\nSRP O\npar\nTask 46168343\nG06-5411\n1267184\nNROLOOS\nrift\nWater.\n29335\nSEED AND STOCK LLC\n00232\nCase 0\n56579\nA 2 of 2\n43020\n049432\n3085159402\nWe\n1 rea into of sparkling\n43020 02728/2025\nzed befrui\n3/8/12 OZ\n4639",
+        "__collections__": {}
+      },
+      "XQRVuP2YxlnUI3FWqjk0": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864263,
+            "_nanoseconds": 827466000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "612/28/2825\nNON GMO\nVERIFIED\nlectorg\n1 of 3 WTRLOO BLKBRYLMND SPKW\n4639\nSRP 0\n80279 3/8/12 02\nSEED AND STOCK LLC\n43020\n4.0\n19215 02141\n645-2012\nCase 0\nALORIES\n3085162211\nTask 46168343\n1267184\nNROLOOS\nProject\n43820\n049432\n762",
+        "__collections__": {}
+      },
+      "XZMtWzkiAtjs7Y4XHF7c": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864136,
+            "_nanoseconds": 150087000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "838\nSSP Q\nCase 0\n049432",
+        "__collections__": {}
+      },
+      "Xie4TZlslb4qKekBAXSY": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862279,
+            "_nanoseconds": 999629000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "01741\nColde\n73020 02/28/2025\nk0\nlutrition Facts\n4639\n3085157576\n35143 01741\nIncl. 0g Added Sugars\nProtein 0g\n12/10.6 Z\nSEED AND STOCK LLC\n49078\nCase 0\n0%\nvoiden\nEN\nsweetened\nTotal Fat 0g\nSodium 35mg\nTotal Carbohydrate 0g\nFL OZ (315 mL)\n43820\n0494321\n573\nSRP 0\nTotal Sugars 0g\n% Daily Valu\n\u70cf\u9f8d\u8336\nAmount per serving\nCalories\nTask 46168343\n623-8512\n1267185\nNROLOOS\nUnsweetened\n2 servings per container\nerving size 1 can(315mL)\n\u70cf\u9f8d\u8336\n\u91d1\u306e\n8 of 14 ITO EN UNSW TEA GLDN OOL\nt a significant source of turated fat, trans fat, olesterol, dietary fiber, amin D, calcium, iron, d potassium.\nEDIENTS:\nOolong Tea\nGolden\nolong Tsa\n4.",
+        "__collections__": {}
+      },
+      "XvH9AtBLZOxdpBOCNLDu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862454,
+            "_nanoseconds": 736280000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\n1 of 5\nTask 46168343\nG19-8442\n1267 185\nNROLOOS\n02/28/2025\n51562 00835\n43020-\n049432\n573\nSRP 0\nWT MNI SKYDP ALM LEM BL\n48180 241.46 0Z\n3085157309\n4639\nSEED AND STOCK LLC\n13020\n4.0",
+        "__collections__": {}
+      },
+      "Xyv2ihXd6bKEHix6wvJ1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864187,
+            "_nanoseconds": 523623000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "43020\n655-4112\n38797 6/7.36 02\nVRIVEROSHUR TAI SEED AND STOCK LLC\n1 of 1\nRXB PRTN MINI STRAW BLU\nTask 46168344\n82/28/2025\n4639\n4.0\n93908 00738\n43020\n049432 744\n3085159198\n1267 187\nCase 0\nSHP 0",
+        "__collections__": {}
+      },
+      "Y6AP9pPBI06f0TTSTPpA": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854949,
+            "_nanoseconds": 820356000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267173\nBESPINOZA\nSRP 0\nA3020 02/28/2025\n3085156739\n2 of 13 0G2 SUJA IMMUNE STRWBRY\nCB1-7021\n049432 573\n18617 02269\n43020\n4639\nTask 46168406 09319 6/12 OZ\nSEED AND STOCK LLC\nCase 0",
+        "__collections__": {}
+      },
+      "YLKAV14SMz3cF6JokmPc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864071,
+            "_nanoseconds": 481680000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "4639\n1 of 1\nCase 0\n42096 15333\nOG2 ALOHA PB CUP DK CHOC\n43020 02/28/2025\n43020\n049432\n13691 6/5 CT\nSEED AND STOCK LLC\nTask 46168343\n573\nSRP 0\n4.0\n1267185\n028-8726\nNROLOOS\n3085157651",
+        "__collections__": {}
+      },
+      "YxdIGGH8AgJRiDeevTji": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854919,
+            "_nanoseconds": 303089000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "09319\nSEED AND STOCK LLC\nCase 0\n3085156807\nA 9 of 13 0G2 SUJA IMMUNE STRWBRY\n6/12 02\n4639\nTask 46168406\nC81-7021\n1267173\nBESPINOZA\n02/28/2025\n18617 02269\n43020\n049432\nSRP 0\n573\n43020\n4.0",
+        "__collections__": {}
+      },
+      "Z7DP72xXLaLEdinudAvZ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855709,
+            "_nanoseconds": 518254000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "PRZODOzsao\n3085154599\nBEST\nMAY 14 25\n02/28/2925\n4639\nCase 0\n380\nSRP 0\nTask 46168406\nC74-7911\n1267173\n2 of 5\n25000 13025\n43020\n6/4/8 OZ\nCK\nBESPINOZA\nSMPLY ORNGE JCE MINI PKK\nCALORIES\n8floz\n4 PACK\n100\n43020\n37421\nSEED AND STOCK LLC\n049432",
+        "__collections__": {}
+      },
+      "ZOuxGhstvit1lfgvipKj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854770,
+            "_nanoseconds": 656476000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "GERTIS\nUSDA\nORGANIC\nOG2 SUJA WLNS SHOT IMNTY\n41731 10/2 02\n02/28/2025\n4639\nCase 0\ner\nSUGAR\nGMO\nProject\nVERIFIED\nnongmoproject.org\nIMMU\n3 of 6\nTask 46168406\nC80-5412\n1267173\nBESPINOZA\n3085156463\n18617 02088\n43020\n049432\n43020\nTURMERIC PINE\nSEED AND STOCK LLC\n4.0\n573\nSRP 0",
+        "__collections__": {}
+      },
+      "ZpH3SXqivOEjR1RXiqm6": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864271,
+            "_nanoseconds": 275138000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "SRP 0\n4639\n5 ot 6 GLICO COOKIE STICK CHOCO\n049432 762\n\u0e40\u0e27\u0e17\u0e25\n\u0e40\u0e1e\u0e23\u0e32\u0e27 M6S3X\n3085162358\n65403 28/1.41 2\nP IN A COOL AND DRY PL AWAY FROM DIREG LACE\nSUNI\n14.0\nTask. 46168344\n1281 18)\nGALEXANDER\n143020\nSEED AND STOCK LLC\n73141 15004\n43628\nCase 0",
+        "__collections__": {}
+      },
+      "ZyNdknyBdrGpzb3uWMle": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864025,
+            "_nanoseconds": 557584000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SRP 0\n3000\n4.0\n3085157095\nCase 0\nSEED AND STOCK LLC\nA 2of2\nTask 46168343\nG07-5711\n1267184\nNROLOOS\n43020\nBOYLAN CANE COLA\n65542 6/4/12 02\n60712 16001\n43020\n049432 573\n02/28/2025\n4639",
+        "__collections__": {}
+      },
+      "aHat306OBhRRfcQQHHC6": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854902,
+            "_nanoseconds": 413958000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "5420800508\nbzen\nSRP 0\n4639\nA 7 of 10 0G2 SUJA MIGHTY DOZEN\nTask 46168406\n43020\n4.0\n6/12 OZ\n1267173\nBESPINOZA\n43020\n049432\n573\n34341\nSEED AND STOCK LLC\nCase 0\nC81-5912\n3085156654\n12az/\u0411pl",
+        "__collections__": {}
+      },
+      "aalDquJMrb69Kno19tQO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855695,
+            "_nanoseconds": 508860000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "SEED AND STOCK LLC\n- SRP 0\n2500g 00018\n1267173\nBESPINOZA\n68554\n12/340 ML\nC72-8012\nSMPLY LEMONADE W/RASP S!\nTask 46168406\n4639\n3085154544\n43020\n049432 380\n02/28/2025\nA 4 of 4\nCase 0",
+        "__collections__": {}
+      },
+      "ak5rv5Uc2Y40jkXpzoeu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864089,
+            "_nanoseconds": 563112000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "NROLOOS\n43020\n2 01 2\n12/4.64 Z\n53650\nSEED AND STOCK LLC\n46168343\nRVW WFL DUTCH CRML VAN\nG.NOSNOUR\nCase 0\n049432\nSRP 0\n3065157675\n50007. 85796\n573",
+        "__collections__": {}
+      },
+      "aoQFHfZCpVNJv4vD8ms7": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864395,
+            "_nanoseconds": 677664000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "31644 2/12/1202\nSEED AND STOCK LLC\n3 of 6\n1267184\nTask 46168343\n43020\n049432 365\n3085148918\n02/28/2025\n4639\n12993 11103\n43020\nLACROIX MANGO SPK WATER\nNROLOOS\nCase 0\nSRP O\nG05-8611",
+        "__collections__": {}
+      },
+      "azxV7N9d7kr5ele7fckz": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864049,
+            "_nanoseconds": 747113000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "43020\n4.0\n\u0633\u0644\u0627\n8939200362\nSRP 0\nCase 0\n82/28/282\n4639\nCELS SPARKLG WATERMELON\nWATERMELON\n1267184\nNROLOOS\nG08-3712\n3085157125\n43820\n049432 573\nA 3 of 5\nTask 46168343 15484 12/12 OZ\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "bRgfe5BklPu8XW8VHc2q": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856120,
+            "_nanoseconds": 51944000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "SEED AND STOCK LLE\nC75-4612\nBESPINOZA\n43020\n11984\n12/5.3 0Z\n3085159280\nSRP 0\n02728/2025\n1 of 3\nTask 46168406\n1267173\n98248 00100\n43020\n970\n049432\nCase 0\n4639\nSIGGIS FF SKYR YOG PLAIN",
+        "__collections__": {}
+      },
+      "cKRHg9SxOMRK1tJbPbNs": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862365,
+            "_nanoseconds": 908108000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Task 46168343\nG22-2111\nterol, dietary fiber, n D, calcium, iron, otassium.\n02/28/2025\n21 of 29 ITO EN UNSW GRN TEA OCHA\n1267185\nNROLOOS\n43020\n4.0\nCase 0\n3085157453\ndients:\nied Water\nSRP 0\n49075 12/10.6 2\nSEED AND STOCK LLC\n35143 01726\n43020\n049432 573\n4639\nProtein 0g\nin C.)",
+        "__collections__": {}
+      },
+      "cM8opepg8RKgBS5gD9MR": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864199,
+            "_nanoseconds": 584322000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "8/3.5 0Z\n3085159136\n2 of 2\nSRP 0\n67793\nSEED AND STOCK LLC\n50023 07301\n43020\n049432 744\nCase 0\nTask 46168343\nG19-2623\n1267185\nNROLOOS\n143020\nOG2 SOLE MNG/ORNG FRT GM\n4639\n02/28/2925",
+        "__collections__": {}
+      },
+      "cPPYxhJO4WDUH04qRLoT": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864376,
+            "_nanoseconds": 850955000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "of 2\n049432 365\nCase O\n1267187\n4639\n654-6712\nSRP O\nVEIVEROSHURTAI, SEED AND STOCK ILC\n83791 52009\n05968 25/2 02\n3085149830\n43026\nTask 46168344\nDIRTY SCRM/ONION CHIPS",
+        "__collections__": {}
+      },
+      "dgcFWiazMZsvSW9Akr9B": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864232,
+            "_nanoseconds": 410271000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "WATE\n02728/2825\n3085155169\n26504 12/17 02\nSEED AND STOCK LLC\ncon\u00fa\n98999 01080\n43020\n049432 761\nSRP 0\nNROLOOS\nV COCO 100% COCONUT WTR\n1 of 1\nTask 46168343\nG07-2612\n1267184\n4302U\n4639\nCase 0",
+        "__collections__": {}
+      },
+      "dnTnPv7P9gIFgkmt29Xf": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854898,
+            "_nanoseconds": 445622000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "18617 02269\n43020\n6/12 0Z\n049432\n02/28/2025\n09319\nSEED AND STOCK LLC\n573\nSRP 0\n3085156760\nC81-7021\n1267173\nBESPINOZA\nCase 0\nA 5 of 13\nTask 46168406\n4639\nOG2 SUJA IMMUNE STRWBRY\n43020\n4.0",
+        "__collections__": {}
+      },
+      "dukWsVDr0KgYiJ8X8TV9": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855796,
+            "_nanoseconds": 420675000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "3085158504\nCase 0\nou youd o\nca Gow e41\n4639\npeLos\nOLIPOP GINGER ALE SODA\n50027 70246\nSRP 0\n02/28/2025\n43020\n049432 813\n17960 12/12 oz\nSEED AND STOCK LLC\nNOZA",
+        "__collections__": {}
+      },
+      "e1vsIrRPJLMVZG1wAHUv": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864037,
+            "_nanoseconds": 365528000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "NHOL008\n14.0\n43620\nCase 0\nMELA WTRMLN WTR PASNFR1\n4639) 3085157392\n2 of 2\n60900 78036\n049432\n60625\nSEED AND STOCK LIC\n\u5bb9.\n12/16.9 Z\nTask 46168343\n026-50111\n1267185",
+        "__collections__": {}
+      },
+      "eHFsO1yQfr44hwr4IuK1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863398,
+            "_nanoseconds": 184470000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "Case 0\nQN CKIES CREAM BAR 4PK\n5/8.5 0Z\n3085162242\n4639\n049432 762\nSRP 0\n02/28/2025\nTask 4616834 3\nG28-2522\n1267185\nNROLOOS\n88849 00386\n43020\n73020\n4.0\nprotein\n05110\nSEED AND STOCK LLC\n1 of 2\nprotein\n100",
+        "__collections__": {}
+      },
+      "ecVZZ6Xxf89gDCQolUtQ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863272,
+            "_nanoseconds": 338309000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "Case 0\nSINCE 1868\n12/10 02\nOG2 MARTIN APPLE JUICE\nSEED AND STOCK LLC\nGOLD MEDAL\u00ae\n380\nSRP O\nGROWR\nTask 46168343\nESO JON 00\nMartinellis\nORGANIC\nPREMIUM ADDLE JUICE\n\u2022 From U.S. Crown Frosh Apples\n\u2022 Not From Concentrate\n00/20225\n4639\n3085154636\nNROLOOS\n45118\n41244 18233\n1 of 1\n43020\n049432\n114 1244 21203",
+        "__collections__": {}
+      },
+      "edqshU9XUifMyNsYzxNT": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854737,
+            "_nanoseconds": 787169000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "OG2 SUJA PBTC SHT VT D/Z\nCase 0\nA 4 of 6\nTask 46168406\nC86-8722\n1267 173\nBESPINOZA\n74209\nSEED AND STOCK LLC\n18617 02360\n43828\n3085156531\n4639\n573\nSRP 0\n43020\n4.0\n10/2 OZ\n049432",
+        "__collections__": {}
+      },
+      "epOWbOG5NlBk2D49FLKr": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854829,
+            "_nanoseconds": 455410000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\n1267173\nBESPINOZA\nC78-6611\nHEM\nTask 46168406\n63813\n6/12 OZ\n18617 02370\n43020\n4.0 4639\nSEED AND STOCK LLC\n02/28/2025\n3085156258\n43020\n049432\nSRP 0\nA 3 of 15 OG2 SUJA GT HLTH ELDR GN\nCase 0.",
+        "__collections__": {}
+      },
+      "eqbOOjOfqs3H14fEc1wI": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861939,
+            "_nanoseconds": 29935000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "YRIVEROSHUR TAL SEED AND STOCK LLC\n02/28/2025\nTask 46168344\nG42-5711\nOG2 YUM SOUR GIGGLS 15CT\n4639\nA 2 of 2\nCase 0\n1016501965\n43020\n049432\n970\n3085159631\n04701\n6/7.5 02\nSRP 0\n43020\n4.0",
+        "__collections__": {}
+      },
+      "exzkhOg90DDf6JRfCNs4": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863134,
+            "_nanoseconds": 344411000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "4630\n2804018051\n348\nSRP 0\n16140l\nCase 0\n048728\nA 27 oJ 36 CG ALPINE SPRING WATER\nTask 42312H31\n612-3112\nJCIFUENTES\n1730171 SEED AND STOCK LLC\n27442 1/35/16-9-\n35001\n43020\n43020\n5.0\n\"8",
+        "__collections__": {}
+      },
+      "f0rpvbGO9kVqTHl7nBSO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855753,
+            "_nanoseconds": 863459000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "5 of 5\naBuS\nPULP FREE\nMmnly\n1g\u0432\nPULP FREE\n02/28/2025\n43020\n049432 813\nSRP O\nBEST BY\nMAY 14 25\nSMPLY ORNGE JCE MINI PKK\n37421 6/4/8 02\nSEED AND STOCK LLC\n4639\nContains 9%\nSimply Grange.\n25000 13025\nBEST BY\nMAY 14 25",
+        "__collections__": {}
+      },
+      "fMXObO1KNV1Rvak88EVt": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862449,
+            "_nanoseconds": 883291000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "5 of 5\n43020\n049432\nCase 0\nA3020\nG19-8442\nNROLOOS\nTask 46168343\nWT MNI SKNYDP ALM LEM BL\n573\nSRP 0\nSEED AND STOCK LLC\n51562 00835\n3085157347\n1267185\n0272872025\n4639\n48180 241.46 02",
+        "__collections__": {}
+      },
+      "fa9JPJBEerQWQYbj9Cjl": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856111,
+            "_nanoseconds": 288568000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "Case 0\n11989\nSEED AND STOCK LLC\nCUPS\nSIGGIS FF SKYR YOG VAN\n2 of 3\nask 46168406\n77-4912\n67173\u00ae\nESPINOZA\n12/5.3 02\n3085159341\n4639\nREFRIG\nSRP 0\n3020 027/28/2025\n9824800107\n43020\n049432 970",
+        "__collections__": {}
+      },
+      "foRUqg6k6P0XMQMZ2EAj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854850,
+            "_nanoseconds": 364091000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "C78-6611\nA 5 of 15 0G2 SUJA GT HLTH ELDR GN\n43020\n049432 573\n63813\nSEED AND STOCK LLC\n3085156272\n82/28/2825)\n4639\n6/12 OZ\n18617 02370\n1267173\nBESPINOZA\nTask 46168406\nCase 0\nSRP 0\n4302U",
+        "__collections__": {}
+      },
+      "foeNv2N9wB4SM3T9nKMu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861829,
+            "_nanoseconds": 313589000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "17946 02007\n43020\n049432 970\n4639\n02/28/2025\n07779\nSEED AND STOCK LLC\nCase 0\nSRP 0\n4 of 4\nTask 46168343\nG35-5512\n1267185\nNROLOOS\n43020\n4.0\nBEAR REAL FRT YOYO STWBR\n3085159525\n6/3.5 OZ",
+        "__collections__": {}
+      },
+      "frfrjz8bmVg4nzPbqfll": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855521,
+            "_nanoseconds": 667363000
+          }
+        },
+        "invoiceSnippet": "995",
+        "text": "26940 12/1.7 0Z\nSEED AND STOCK LLC\n995\nSRP 0\nGinger\nC81-1311\n43020\n4.0\nES.\n56841\n02/28/2025\nSHAKA\nA 1 of 2\n00801\n4639\nOG2 KOR WELLNESS SHOT\n1267173\nBESPINOZA\nCase 0\nTask 46168406\n43020\n049432\n3085162532\nSHO",
+        "__collections__": {}
+      },
+      "g21qEWdw42PSAuDf6MEG": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856117,
+            "_nanoseconds": 324594000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "SIGGIS FF SKYR YOG PLAIN\n4.0\nCase 0\nA 2of 3\nC75-4612\n1267173.\nBESPINOZA\n43020 1220205\n11984 12/5.3 02\n3085159297\n970\n4639\n98248 00100\n43028\n049432\nSEED AND STOCK LLC\nEEP RE\nSRP 0\nTask 46168406",
+        "__collections__": {}
+      },
+      "gGenh7BnoBrakhLX1obO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864105,
+            "_nanoseconds": 186908000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "6191\nJUr\nVRIVEROSHUR TAL SEED AND STOCK LLC\n3085157828\nMON\n1 ot 2\nTask 461G8344\n56823 90477\n43020\n049432\nCase O\nJCKSN SWT POT CHIP SSALT\n43020\n14.0\nSHP 0\n654-3611\n02728/20251\nsad\nNS.\n33925 12/1.5 02\n4639/F\nLn7\n1267187\n573",
+        "__collections__": {}
+      },
+      "gJV1FFH3MxvznJwvKKBo": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855807,
+            "_nanoseconds": 38465000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "www.drin\nUNIT UPC #8500\n5002770246\n17960 12/12 02\nSEED AND STOCK LLC\nCase 0\nC70-3611\n43020\n049432\n3085158528\nOLIPOP GINGER ALE SODA\n00\nA 4 of 4\nOak\n50027\n02/28/2025\nTask 46168406\n08\n43020\n4.0 4639\n1267173\nBESPINOZA\n813\nSRP O",
+        "__collections__": {}
+      },
+      "gKKTb9su5Bt9yUO1b56E": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862069,
+            "_nanoseconds": 438815000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "4639\nTask 46168343\nG13-2011\n1267185\nNROLOOS\n02/28/2025\nCase 0\n3085158078\n54871 00901\n43020\n049432\n1 of 1 TEJAVA ICD TEA UNSW 4 - PK\n27478 6/4/12 02\nSEED AND STOCK LLC\nejava\nTejava\n43020\n4.0\n838\nSRP 0\nad Tea",
+        "__collections__": {}
+      },
+      "gV4oFLFY9MyX9h8zKnHC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855482,
+            "_nanoseconds": 519840000
+          }
+        },
+        "invoiceSnippet": "623",
+        "text": "Case 0\nTask 46168406\nC69-6112\n3085158146\n79465\nSEED AND STOCK LLC\n43020\n4.0\n02/28/2025\n4639\nA 1 of 2\n90646 64101\n1267173\nBESPINOZA\n6/64 OZ\n049432 623\nOATLY OAT MILK ORIGINAL\nSRP 0",
+        "__collections__": {}
+      },
+      "gZMNeAO2CBlvWdhrDz2Z": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861960,
+            "_nanoseconds": 805299000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "SRP 0\nTask 46168344\n4639\n43020\n43020\n4.0\n049432 970\n02/28/2025\n3085159600\n1267186\nYRIVEROSHURTAD\n02005\n17946\n07777 6/3.5 0z\nA 2 0f 4 BEAR REAL FRT YOYO MANGO\nCase 0\nG42-4012\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "ggWLaonZdxY4dT8Zpq2c": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862483,
+            "_nanoseconds": 774759000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267185\n43020\n049432 573\n85157330\n4 of 5\n00\nSEED AND STOCK LLC\nCase 0\nWT MNI SKNYDP ALM LEM BL\n48180 241.46 02\n02/28/20251\n4639\n5156200835\nSRP 0\nTask 46168343\n43020\n4.0",
+        "__collections__": {}
+      },
+      "ggqLtgvED9OEVqHjrPtd": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854663,
+            "_nanoseconds": 563858000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "KEEP REFRIGERA\n8-PACK\n4639\n8/5 02\nA 4 of 6\nTask 46168406\nC78-8912\n1267173\nBESPINOZA\nOAT:\n0272872025\n78870\nSEED AND STOCK LLC\n43020\n4.0\n58883 99415\n43020\nMUSH VAN BEAN OVRNGT 0A1\n573\nSRP 0\n049432\nCase 0\n3885156418",
+        "__collections__": {}
+      },
+      "ghMiSZV4gfqUKHmHO1MH": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863383,
+            "_nanoseconds": 286321000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "98999 01000\n43020\n049432 761\n4639\nSEED AND STOCK LLC\n26504 12/17 oz\n607-2612\n1267184\nNROLOOS\n143020\n3085155169\nSRP 0\n1of1\nCase 0",
+        "__collections__": {}
+      },
+      "grWpGYwmfqTEOdjS0swg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864093,
+            "_nanoseconds": 345118000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SRP O\n\" 4\n02/28/2025\n4639\n3085157873\nOG2 LE PCRN HIMLYN PINK\n40722 18/ 88 02\n7 of 9\nask 46168344\n55-6112\nBIVEROSHURTAL SEED AND STOCK LLC\n3020\n1.0\nCase 0\n573\n80999 00141\n43020\n049432",
+        "__collections__": {}
+      },
+      "guUNLjSXbiWgHOcmn38Y": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854894,
+            "_nanoseconds": 622212000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "09319\nSEED AND STOCK LLC\n43020\n049432 573\n3 of\n5168406\n43020 02/28/2025\n4639\n13\n6/12 OZ\n4.0\n1267173\nBESPINOZA\n3085156746\n18617 02269\nCase 0\n\u2022 OG2 SUJA IMMUNE STRWBRY\nSRP 0",
+        "__collections__": {}
+      },
+      "guk1phcS1AzmIiKtqpOO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854868,
+            "_nanoseconds": 767091000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "18617 02269\n573\nSRP 0\n43020\n4.0\n3085156777\n92/28/20251\n43020\n049432 -\nA 6 of 13 0G2 SUJA IMMUNE STRWBRY\n4639|\n\uff0c\u300a\u591a\n+S99SIS80S\nCase 0\n09319 6/12 02\nSEED AND STOCK LLC\nTask 46168406\nC81-7821\n1267173\nBESPINOZA",
+        "__collections__": {}
+      },
+      "hHyDtOAPa8xpZqvZPORk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854751,
+            "_nanoseconds": 335911000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "4639\n4.0\nSRP 0\nORGAN\nTURMERIC PINEAPPIS\nOG2 SUJA WLNS SHOT\nSl\n\u0445\u0430\u043d\u0430\u043d\u043e\nCase 0\nUSDA\n4 of 6\nTask 46168406\nC86-5412\n1267173\nBESPINOZA\n43020\n10/2 O2\n41731\nSEED AND STOCK LLC\nIMNTY\n18617 02088\n43020\n049432 573\n3085156470",
+        "__collections__": {}
+      },
+      "hMaxIa2bWT9Y8eS3HNNe": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863217,
+            "_nanoseconds": 427355000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "43020\n4.0\n43020\n049432 365\nTask 46168343\ncally Value j\n49077\nSEED AND STOCK LLC\nNROLOOS\n3085149397\nCase 0\nJASMINE TEA, ASCORBIC ACID (VI\n3 of 28\nITO EN UNSW GRN TEA JSMN\nJasmine Green Tea\n35143 01739\n02/28/2025\n4639\n12/10.6 Z\nProtein 0g\nIncl: 0g Added Sugars\nbohydrate < 1g\n| Sugars 0g\n123-5412\n(315 mL.)\nSRP 0",
+        "__collections__": {}
+      },
+      "hVw26rQfwvrv5vGrUZ2q": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854647,
+            "_nanoseconds": 588543000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Vanilla Bean\nMUSH VAN BEAN OVRNGT 0A1\n78870 8/5 02\n43828\n049432\n3085156425\n02/28/20\nCase 0/\n99415\nilla Bean\nA 5 of 6\nTask 46168406\nC78-8912\n1267173\nBESPINOZA\n55565\n50003 99415\n43020\n4.0\n4639\nSEED AND STOCK LLC\n573\nSRP 0\nMFSM04-08",
+        "__collections__": {}
+      },
+      "hXQFQPgfiNvIOSPOm26y": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855750,
+            "_nanoseconds": 731647000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "OOL\nSRP 0.\n300\nRE\n1539\n3085158559\nBESPINOZA\n03020 1282157\n4.0 4639\n813\nSEED AND STOCK LLC 43020\n049432\n25000 13025\nSO VI AVN\n18 1538\nCase 0\nTask 46168406\nC74-7911\nSMPLY ORNGE JCE MINI PKK\n37421 6/4/8 02\n4 of 5\n1267178\n4PK 24\nHaas dand\naoy\n/4/802\nOOL\nBest Before: MAY 1425 AMN/\n20.18",
+        "__collections__": {}
+      },
+      "ht0nvX4wFGGVlMaS28CH": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854912,
+            "_nanoseconds": 710499000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\nOZA\n2728/2025)\n1539\n43020\n3085156689\nSUJA MIGHTY DOZEN\n2 of 10 0G2\n6/12 OZ\nAND STOCK LLC\n646168406\n049432\nCase 0\nms\n34341\nSEED\nSRP 0\n54208 00508",
+        "__collections__": {}
+      },
+      "iHR7WxcdPpsr9BSOjS2x": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864372,
+            "_nanoseconds": 726254000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "saad ON\nVRIVEROSHURTAI, SEED AND STOCK LIC\nAdaU\n59750 903331\n43020\n049432 365\n3085149861\nTask 46168344\n655-5825\n1267187\nSRP 0\n0G1 MAV DRIED JACKFRUIT\n38356 6/2. 0Z\n4639\nCase 0\n30",
+        "__collections__": {}
+      },
+      "jJmnWC17S5I9evRMJani": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855605,
+            "_nanoseconds": 398815000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "1 of 2\nTask 46168406\n02728/2025\n43020\n049432\n13636 82345\nCF OAT MILK BARISTA VAN\n365\nSRP 0\nCase 0\n3885148598\nAR\n52570 6/32 02\nSEED AND STOCK LLC\n4639",
+        "__collections__": {}
+      },
+      "jbDhMK2gEEPUzmeBrvqK": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861966,
+            "_nanoseconds": 81674000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "G42-4012\n1267186\nYRIVEROSHURTAD '\n43020\n14.0\nA 1 of 4 BEAR REAL FRT YOYO MANGO\n02/28/2825\nSRP 0\nSEED AND STOCK LLC\n4639\n07777 6/3.5 02\n17946 02005\nTask 46168344\n143820\n049432 970\nCase 0\n3085159594",
+        "__collections__": {}
+      },
+      "jfbLY7TklU9yKFv6pqqw": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861846,
+            "_nanoseconds": 389158000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "4 of 4\nTask 46168344\n43020\n4.0\n43020\nTGCC SCRM & ONION CRISPS\n02/28/2025\n049432\nCase 0\n649-6112\n4639\n970\n52657\n3085159716\nSRP 0\n12/1.6 02\n51562 00702\n30851562007\n55\nYRIVEROSHUR TAI SEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "jhrKH04jpSan7Yj1JsRF": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862398,
+            "_nanoseconds": 411715000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "cts\nAmount per serving\n0%\nSodium 30mg\n49075 12/10.6 2\nSEED AND STOCK LLC\nTask 46168343\n622-2111\n1267185\nNROLOOS\nDi Ocha\n\u7da0\u8336\ntainer\n15mL)\nCalories\nTotal Fat 0g\nTotal Carbohydrate <1g 0%\n35143 01726\n43020\n049432 573\nCase 0\n02/28/2025\nsweetened\nreen Tea\nScha etened en Tea\nurce of\n% Daily Value\n2%\n17 of 29 ITO EN UNSW GRN TEA OCHA\n3085157415\n4639\n43020\n4.0\n\u6731\u8336",
+        "__collections__": {}
+      },
+      "ji9Z7fBW93i6mU5Xj26s": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863238,
+            "_nanoseconds": 121388000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Incl: Og Added Sugars\nPURIFIED WATER, JASMIN\n35143 18173\nSRP\nGalories\nsaturated fat, trans fat,\ncholesterol, dietary fiber, vitamin D, calcium, iron,\n43020\nProtein 0g\n3 of 28\nTotal Carbohydrate <1g\n02/287/20257\n4639\n12/10.6\n49077\nSEED AND STOCK LLC\nNGREDIENTS:\n, ASCORBIC ACID\nITO EN UNSW GRN TEA JSMN\nTotal Fat 0g\nSodium 35mg\n049432 365\n(315 mL.)\n1.0\nNutrition Facts Amoun\nSenving size 1 can(315mL)\nIATER, JASMINE TEA, ASCORBIG \u00c1CID (V\"\n0%\nand potassium.\nTotal Sugars 0g\nCase 0\n3085149397\nNot a significant source of\n% Dally Van\nTask 46168343\n023-5412\n1267 185\nNROLOOS\n43020\n12 servings per container",
+        "__collections__": {}
+      },
+      "kT9VKwlF6JpVzO2aJiUi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862305,
+            "_nanoseconds": 857846000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "23 of 28 ITO EN UNSW GRN TEA JSMN\n35143\n43826\n049432\nCase 0\nITAMIN C).\nORIC ACID NITAMII\n02/28/2025\n4639\n573\nSRPO\n3085157552\n0%\n(315 mL.)\n12/10.6 Z\n01739\n43020\nTask 46168343\nG23-5412\n1267185\nNROLOOS\nsmi\n49077\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "koZYPXCpklN4A44euIJO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854872,
+            "_nanoseconds": 889140000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267173\nA 9 of 15 0G2 SUJA GT HLTH ELDR GN\n63813 6/12 02\nSEED AND STOCK LLE\nCase 0\n573\nSRP g\n4.0 4639\n18617 02370\n43020 02/28/2025\n3085156319\nBESPIN\nF3020\n43020\n049432\nC78-6611\nTask 46168406\n20\nBESPINOZA",
+        "__collections__": {}
+      },
+      "ksh15JDWnpXTonDBsUsp": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854740,
+            "_nanoseconds": 473413000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "74209\nSEED AND STOCK LLC 43020\n18617 02360\n10/2 OZ\n049432\n4639\nCase 0\nORGANIC\nA 6 of 6\nTask 46168406\nC80-8722\n1267173\nBESPINOZA\n43020\n4.0\n573\nSRP O\n3085156555\n027/28/2025\nOG2 SUJA PBTC SHT VT DIZ",
+        "__collections__": {}
+      },
+      "l4Av85YIpDWhId8H73Sj": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861834,
+            "_nanoseconds": 29176000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "635-5512\n43020\n049432\nBEAR REAL FRT YOYO STWBR\n17946 02097\n1267185\n3 of 4\nTask 46168343\n4639\nNROLOOS\nCase 0\n970\nSRP 0\n07779\nSEED AND STOCK LLC\n027/28/2885\n3085159518\n6/3.5 0Z",
+        "__collections__": {}
+      },
+      "lFULwxHTDPvLmsuTxw2O": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854856,
+            "_nanoseconds": 4787000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SEED AND STOCK LLC\nCase 0\nTask 46168406\n1861702370\n43020\n049432\n3085156326\nA 10 of\n15 OG2 SUJA GT HLTH ELDR GN\n43020 02/28/2025\n63813 6/12 0Z\n1267 173\n573\nSRP 0\nC78-6611\nBESPINOZA\n4639",
+        "__collections__": {}
+      },
+      "lKFMT4xPYGIdQn0ytyPt": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864289,
+            "_nanoseconds": 64618000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "653\naSe\nUnit stands upright or\n3085153288\n43020\n049432\nSHP 0\n02/28/2025\n1 of 1\nTask 46168344\n650-4723\nVEIVEROSHURTAL SEED AND STOCK LLC\n4639\n10039 91061\n1267187\n443020\n4.0\nCase 0\nOG2 GOMACRO PBTR CCHP 8C\n19151 717.2 02\ndual units.",
+        "__collections__": {}
+      },
+      "lYcyNLkCS22wUYFoWCCi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862377,
+            "_nanoseconds": 500231000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Serving size 1 can (315mL)\n0%\n20\nsource of\nfal,\n02/28/2025\n4639\nof 29 ITO EN UNSW GRN TEA OCHA\nSEED AND STOCK LLC\n049432\n10\notal Fat 0g Sodium 30mg\nTotal Carbohydrate < 1g 0%\n2%\n622-2111\n1267185\nNROLOOS\nTotal Sugars 0g\nIncl. 0g Added Sugars\nProtein 0g\n0%\n3085157446\nCase 0\nNot\nTask 46168343\n43020\nand\nIngredient.\nPurified Water,\n49075 12/10.6 2\n*cid (Vitamin C).\nSRP 0\n573",
+        "__collections__": {}
+      },
+      "liB7Bxqagb7uv5IUSvAb": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863141,
+            "_nanoseconds": 841091000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "JCIFUENTES\n3884017979\n27442 1735/16.9\nSEED AND STOCK LLC\n1630\nA 19 of 36 CG ALPINE SPRING WATER\nTask 42312831\n012-3112\n1730171\nA3020\n75140 35081\n5.0\n43020\n048728\nCase O\n348\nSRPO",
+        "__collections__": {}
+      },
+      "mGHZq1ryovgzKLmAlfkv": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862978,
+            "_nanoseconds": 620671000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "10165 01965\n43020\nA 1 of 2\nG42-5711\nVRIVEROSHURTAI SEED AND STOCK LLC\n049432 653\nCase 0\n02/28/2025\nSRP 0\nTask 46168344\n43020\n4.0 4639\n3085153257\nOG2 YUM SOUR GIGGLS 15CT\n04701 6/7.5 02",
+        "__collections__": {}
+      },
+      "mHWpDJqICXWkWtRNv25O": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861870,
+            "_nanoseconds": 737605000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "TGCC SCRM & ONION CRISPS\n4639\nSRP O\nCase 0\nSEED AND STOCK LLC\n52657\n049432 970\n12/1.6 02\n43020\nLZO\nTask 46168344\n649-6112\n1267187\nYRIVEROSHURTAD\n3085159709\n3 of 4\nA3020 02/28/20251",
+        "__collections__": {}
+      },
+      "mOxhjc8wm9210t2DeaQ7": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862437,
+            "_nanoseconds": 235033000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "573\nSRP O\n1267185\n049432\n3085157316\n80/28/28251\n4639\nCase 0\nWT MNI SKNYDP ALM LEM BL\n48180 24/.46 02\n43020\n14.0\nG19-8442\nNROLOOS\n5156200835\n43020\nSEED AND STOCK LLC\n2 of 5\nTask 46168343",
+        "__collections__": {}
+      },
+      "mYyZt4dac1VIsp77MBhR": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863123,
+            "_nanoseconds": 351963000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "Tack 42312831\n612-3112\n1730171\nCIFUENTES\nASUZU\n5.0\n4630\n49121\n5140\n2004018112\n27442 1/35/15.9\nSEED AND STOCK LLC\n048728 348\nA 33 of 36 CG ALPINE SPRING WATER",
+        "__collections__": {}
+      },
+      "n3xl6KtdBPq7qpn5ZrLd": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855702,
+            "_nanoseconds": 359462000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "PULP\nALORIES\n4639\n43820\n049432 380\n82/28/2825\nSRP 0\nTask 46168406\n8 floz\n4 PACK\n100\nsim pl\u00fd\nCase 0\n1267173\nBESPINOZA\nA 3 of 5\n3085154605\nCALORIES\nUlL\n25000 13025\n100\nLORIES\n43020\n4.0\nSMPLY ORNGE JCE MINI PKK\n37421 6/4/8 0Z\nSEED AND STOCK LLC\nC74-7911\nCALOR",
+        "__collections__": {}
+      },
+      "nJhdBMfq4d0gXDkwl8kk": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862931,
+            "_nanoseconds": 251430000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "02/28/2025\n4639\n43020\n049432 653\nCase 0\n40776 8/5/1.162\nSEED AND STOCK LLC\n4.0\n43020\n02652 29948\n3085153202\nSRP 0\n030-1141\n1267185\nNROLOOS\nKIND DRZLD SLTD CRML BAR\n1 of 1\nTask 46168343",
+        "__collections__": {}
+      },
+      "nis8JMDB5ZYJSxQMFiEO": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863115,
+            "_nanoseconds": 272573000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "\u202227442 1/35/16.9\nSEED AND STOCK LLC *43020\n048728\n07/19/2024\n4630\n75140 35001\n18\n2804018013\nCase 0\nTask 42312831\n612-3112\n1730171\nJCIFUENTES\nA 23 of 36, CG ALPINE SPRING WATER\n348\nSAP 0\n43020\n5:0",
+        "__collections__": {}
+      },
+      "oBKWXS6x2XVEQ0OMisER": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862916,
+            "_nanoseconds": 880223000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "43026\n049432 653\n24/2 02\n1 of 1\nYRIVEROSHURTAD SEED AND STOCK LLC\nG54-2511\nTask 46168344\nCase 0\n3085153318\n027/28/208\nOG3 LJULY TORTCHP NACHO\n1267187\n53984\n15099 02021\n4639\nSRP 0",
+        "__collections__": {}
+      },
+      "omYO28hZwZtV1x2jR9NM": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864240,
+            "_nanoseconds": 641550000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "201-2612\nSEED AND STOCK LLC\nNROLOOS\n43020\n4.0\n02/28/2025\nV COCO 100% COCONUT WTR\n4639\n1IVM\n3085155169\n26504 12/17 OZ\n1 of 1\nTask 46168343\nCase 0\nSRP 0\n98999 010001\n43020\n049432 761",
+        "__collections__": {}
+      },
+      "omoD9L7rDecLm9lAzK7y": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855837,
+            "_nanoseconds": 721802000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "SAP 0\n94788\n3085158575\n002/28/2025\nUL CUPS\nA 6 of 7 CHO PLAIN NF YOGURT\nCupS\nREFRIGERATE\n12/5.3 OZ\n81881\n4639\n43020\n4.0\n049432 813\nTask 46168406\nC77-3511\nTT\nCase 0\n1267173\nBESPINOZA\n69319\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "p2VfcRxUijpj88hULcAW": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863409,
+            "_nanoseconds": 928946000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "049432\n762\nSRP 0\n20/1.41 Z\n5 of 6\nTask 46168344\nIN A COOL AND DRY PLACE ANAY FROM DIRECT SUNL\nNATA\nTENO NI dEEM\n73141 15004\n43020\n14.0 4639\nCase 0\n65403\nSEED AND STOCK LLC\n15294\nGLICO COOKIE STICK CHOCO\n1251181\nGALEXANDER\nW3U2U\n3085162358",
+        "__collections__": {}
+      },
+      "p5oTZMqD7Gwbk7aVo8Qy": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854853,
+            "_nanoseconds": 378500000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267173\nBESPINOZA\nTask 46168406\n6/12 OZ\nF IIIINI\n18617 02370\n8 of 15 OG2 SUJA GT HLTH ELDR GN\nC78-6611\n573\nSRP 0\n43020\n049432\nCase 0\n3085156302\n63813\n43020\nSEED AND STOCK LLC\n4.0\n4639",
+        "__collections__": {}
+      },
+      "qEo4Pe0QnVoRPouppJIU": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863019,
+            "_nanoseconds": 705618000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "1267186\n83020 02728/2025\n4639\n0G2 NP WLDBRY ACAI FRSTD\nTask 46168344\n641-1323\nVRIVEROSHUR TAL, SEED AND STOCK LLC\n5844941022\n43828\n653\nA 3 of 3\n36743 12/11 02\nCase 0\n3085153240\n049432\nSRP 0",
+        "__collections__": {}
+      },
+      "qLlYOSJV9uW5rPpNIyz2": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864337,
+            "_nanoseconds": 698498000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "380\nSRP O\nTask 46168343\nvilg\nNROLOOS\n5 of 14 ITO EN UNSW TEA GLDN OOL\nTotal Carbohydrate 0g Total Sugars 0o\nGolden Oolong Tea insweetened\nSEED AND STOCK LLC\n43020\n049432\nCase 0\nG23-8512\n4639\n12/10.6 Z\n3085154971\n35143 01741\n% Daily Value\ntLOZ(\n49078\n143020 02/28/2025",
+        "__collections__": {}
+      },
+      "qkhXA0cTXrjCQ1fUSyaU": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863313,
+            "_nanoseconds": 638164000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "813\nSRP 0\n16762\nSEED AND STOCK LLC\n3085158887\n049432\nTask 46168343\n635-6811\n1267185\n43020\n4639\nANG BCP SWEET & SALTY\n2 of 3\n4/6/1 OZ\n02/28/2925\nCase 0\nNROLOOS\nANGIE'S ARTISAN TREATS, LLC\nDISTRIBUTED BY:\nDAEMADTDI AZA SUITE 1\n18780 01208",
+        "__collections__": {}
+      },
+      "qpffcw3FHGPTC11J3eS6": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862971,
+            "_nanoseconds": 214580000
+          }
+        },
+        "invoiceSnippet": "653",
+        "text": "OG2 GIMME SWDSNK AVO 5PK\n4611\nG46-2918\nPMENDOZA1\n19582\nWEM SP SMC GROCERY\n1249951\n0665\n049410\n3076126536\n6/5/.14 Z\n280\nSAP O\n5002344615\n1 of 1\nTask 46046357\n10173\n2.0\nCase 0",
+        "__collections__": {}
+      },
+      "qrQXVjCr1DcsBtmFSGTV": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855766,
+            "_nanoseconds": 241158000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "70236\n17961\nSEED AND STOCK LLC\n12/12 02\n049432\nOLIPOP WTRMLN LIME SODA\nC70-3811\n1267173\nBESPINOZA\n43020\n50027 70236\n43020\n67102\n82/28/2025\n4639 3085158535\nCase 0\nfrigerated\n813\nSRP 0\n1 of 2\nTask 46168406",
+        "__collections__": {}
+      },
+      "qtJn4k8wLxFMT7d2dDuY": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862410,
+            "_nanoseconds": 951510000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "4639\nCase 0\n3085157491\n43020\n4.0\n02/28/2025\n25 of 29 ITO EN UNSW GRN TEA OCHA\nTask 46168343\nG22-2111\n1267185\nNROLOOS\n35143 01726\n43020\n049432\n49075\nSEED AND STOCK LLC\n(20 7)\n573\nSRP 0\n12/10.6 Z",
+        "__collections__": {}
+      },
+      "qzAg4Qtkro1Qho6Qr0DQ": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740856100,
+            "_nanoseconds": 799098000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "sin\n17\n1H913\nA 3 of 3\nTask 46168406\nC77-4912\n1267173\nBESPINOZA\nCase 0\nU7\nSIGGIS FF SKYR YOG VAN\nSRP 0\nI aRay\n11989\nSEED AND STOCK LLC\n43020\n4.0\n12/5.3 02\n82/28/2823\n4639\nsano\nSanD\n98248 00107\n43020\n049432 970\n3085159358",
+        "__collections__": {}
+      },
+      "rQlwsR9jgk1kGUoPqfWI": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864341,
+            "_nanoseconds": 493544000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "43020\n02/26/202\nSRP 0\n12/10.6 Z\nlasmin\n4.0\ngars\nCase 0\n(315\nTask 46168343\n623-5412\n43628\n049432\n3085154896\n1267185\nNROLOOS\n35143 01739\nenTe\uff01\n49077\nSEED AND STOCK LLC\n11 of 28 ITO EN UNSW GRN TEA JSMN\n380\n4639",
+        "__collections__": {}
+      },
+      "rTevzLQROOYPoDFFrGlW": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855621,
+            "_nanoseconds": 616502000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "2100820\nCLVRSN VITAMN D MILK\n2/129 02\n365\n5 of 13 0G\n\u0e08\u0e31\u0e48\u0e07\u0e40\u0e19\u0e34\u0e14\n043432\n1445\nSEELAND STOCK LLC\nSNP D\n4639\nCase 0\n1189148723",
+        "__collections__": {}
+      },
+      "rdAeHmrhTTE3LTTQQhgL": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855802,
+            "_nanoseconds": 707950000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "C70-3611\n1267 173\nBESPINOZA\n813\nSRP 0\n3 of 4\nTask 46168406\n50027 70246\n43020\n049432\n019t6\nCase 0\n43020\n4.0\n17960\nSEED AND STOCK LLC\n3085158511\n02/28/2025\n22009 80\nOLIPOP GINGER ALE SODA\n4639\n12/12 OZ",
+        "__collections__": {}
+      },
+      "rnGU7AGaXqHowU1Ma24Y": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862076,
+            "_nanoseconds": 454804000
+          }
+        },
+        "invoiceSnippet": "838",
+        "text": "\u2464186\nPOSHI CHILI&OREG GRN OLV\n54918 00213\nOregano en Pitted\n10/1.1 02\n43020\n049432 838\nCase 0\nSRP 0\n3085158092\nTask46168344\nN6-1N3\nVEROSHUR TAI, SEED AND STOCK LLC\nshi.\n4639\nhes/ Net WT\n1 of 5\n41705",
+        "__collections__": {}
+      },
+      "rvy8iPfjw1dsPFqyeqAg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864244,
+            "_nanoseconds": 445302000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "43020\n049432 761\n35143 00179\n57541 12/16.902\nSEED AND STOCK LLC\nITO EN JASMINE GREEN TEA\n3085155176\nCase 0\n00\n1 of 1\nG15-1912\nNROLOOS\n1267 185\n43020 02728/2025\nATOEN\nInTINT\nOEN\nITOEN\nTask 46168343\nSRP 0\nN3OL\n4639\nBY 12/05/27\n4.0",
+        "__collections__": {}
+      },
+      "sAnSrqIxUTch9X0qjoAg": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863151,
+            "_nanoseconds": 290892000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "27442 1/35/16.9\nSEED AND STOCK LLC\nSRP D\n43020\n048728 348\nCase u.\n2804018099\n36 CG ALPINE SPRING WATER\n5.0\n412831\n1730171\nJCIFUENTES\n43020\n9112\n5140 35001\n4630",
+        "__collections__": {}
+      },
+      "sBRFrLdYLCF1XepYyMV6": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854875,
+            "_nanoseconds": 69187000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "02/28/2825\n4639\n18617 02370\nOG2 SUJA GT HLTH ELDR GN\n6/12 OZ\n3085156357\n43020\n049432\n13 of 15\nTask 46168406\nC78-6611\n1267173\nBESPINOZA\nTask 46\nSRP 0\nC78-661\nBESPINOZ\n63813\nSEED AND STOCK LLC\nCase 0\n1267173\n43020\n573\n43020\n4.0",
+        "__collections__": {}
+      },
+      "sCbkkSgVev1QeGEysRXG": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864408,
+            "_nanoseconds": 237121000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "SRP 0\nUCC RTD COFFEE ORIG BLND\n820/2872925\n4639\n3 ot 3\nTaak 46168343\n612-7623\n4.0\n43020\nLL\n3085149106\nCase 0\nEM UN\n44323 24/11.4 2\nSEED AND STOCK LLC\n680g\nNROLOOS\n35168 22222\n43020\n049432 365",
+        "__collections__": {}
+      },
+      "sTvzQT3crKSm455EbBQo": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863268,
+            "_nanoseconds": 121491000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "GROWN\n380\nSRP 0\nGROWN\n4639\n1 of 1\nTask 46168343\nG10-2721\n1267184\n02/28/2025\n3085154636\n4124410233\nSiN\nCase 0\nOG2 MARTIN APPLE JUICE\n43020\n049432\nSINCE 1868\nU.S\nNE700 SIPET\nNROLOOS\n43020\n4.0\n12/10 02\n45118\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "sh2psHsEQETYT1O66AeC": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855624,
+            "_nanoseconds": 234943000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "659\n4639\n5 o1 9 002 CLVRSN FAT FREE MILK\n2/128 02\n377\n4.0\n049432 365\nCase 0\nSRP\nTask 45:58405\n21-5021\nESPINCI\n430211\n1405%\nSTED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "tELNg4TfKfgRE847P5Ub": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862466,
+            "_nanoseconds": 31970000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "65797 88885\n43026\n049432 573\n6004\n48182 24/ .46 02\nSRP O\nA3020 12/N/22\nG19-5532\n3085157293\nSEED AND STOCK LLC\nTask 46168343\n1267185\n5 of 5 WT MNI SNYDP ALM COCOA\n39\nNROLOOS",
+        "__collections__": {}
+      },
+      "tEYKQ2KH2MB5yr6puhLu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854832,
+            "_nanoseconds": 265058000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "C78-6611\n18617 02370\n573\nA 7 of 15 OG2 SUJA GT HLTH ELDR GN\n43020\n049432\n3085156296\n43020\n4.0\nLL\nSRP 0\nTask 46168406\nCase 0\n1267173\nBESPINOZA\nB.\n4639\n02728/2025\n63813 6/12 02\nSEED AND STOCK LLC",
+        "__collections__": {}
+      },
+      "teu6fubr6LjiKiP2Avv1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863184,
+            "_nanoseconds": 793620000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "24/19.2 2\n365\nA 4 of 6\nTask 46168343\nG08-5611\n1267184\nNROLOOS\n50031 70018\n43020\nSRP 0\n44891\nSEED AND STOCK LLC\n049432\n73020\n4.0\nCase 0\n02/28/2025\nLQD SPK MTN WATER\n3085148994\n4639\n15",
+        "__collections__": {}
+      },
+      "txBHjZHVdIsAPSLDW8rR": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863100,
+            "_nanoseconds": 48248000
+          }
+        },
+        "invoiceSnippet": "348",
+        "text": "27442 1/35/16.9\nSEED AND STOCK LLC\n75140 35001\n43020 07/N9/2024)\n5.0\n348\nSRP 0\nCase 0\n2804018044\n43020\n048728\n4630\nA 26 of 36 CG ALPINE SPRING WATER\nTask 42312831\nG12-3112\n1730171\nJCIFUENTES",
+        "__collections__": {}
+      },
+      "u0DrDjB6nQFx1UwYRpog": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854945,
+            "_nanoseconds": 340855000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SRP 0\nA 13 of 13\nTask 46168406\n049432\nCase 0\nOG2 SUJA IMMUNE STRWBRY\n09319 6/12 02\nSEED AND STOCK LLC 43020\n4.0\n7 02269\n1861\n3085156845\n573\n4639\nC81-7821\n1267 173\nBESPINOZA\n43120",
+        "__collections__": {}
+      },
+      "uAlhgyaq7UA8oyqG0XpD": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863417,
+            "_nanoseconds": 451725000
+          }
+        },
+        "invoiceSnippet": "762",
+        "text": "EP IN A COOL AND DRY PLACE AWAY FROM DIRECT SUNL\n65403 20/1.41 2\nSEED AND STOCK LLC\n15294\nDoOst aI sis\nGLICO COOKIE STICK CHOCO\nSEoz snY 8z\n20nd\nSAP 0\n4639 4085162358\n413020\n4.0\n173141 15004\n5 of 6\na8k 46168344\n647-6823\n1251181\nGALEXANDER\nCase 0\n43020\n049432 762",
+        "__collections__": {}
+      },
+      "uQ0p6vUnJljN2Xe5BAA3": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862127,
+            "_nanoseconds": 259423000
+          }
+        },
+        "invoiceSnippet": "821",
+        "text": "A 5 of 8\nTask 46168344\nG40-8611\n1267186\nYRIVEROSHURTAL SEED AND STOCK LLC\n43020\n4.0\nKETTLE BACKYARD BBQ CHPS\n31739 24/1.5 02\n02/28/2025\n4639\nCase 0\nSRP 0\n821\n3085156026\n84114 11274\n93020\n049432",
+        "__collections__": {}
+      },
+      "vsj5iQzzSkwdfoJ6xbHU": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862311,
+            "_nanoseconds": 360981000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "12/10.6 Z\n623-5412\nlasmind\nNG.\nSRP 0\nCase 0\n43020 02/28/2825\n2%\n22 of 28 ITO EN UNSW GRN TEA JSMN\n1267185\nUnsweetened\nSEED AND STOCK LLC\n35143 01739\n4639\nTotal Cartohydrate < 1g\nsveetened\n10,6 FL Oz (515 ml)\n43020\nInci. 0g Added Sugars\nProtein 0g\nGreen Te%\nans fat,\nNutri\nNROLOOS\n049432 573\nWUMM 35mg\nTask 46168343\nNot a signi\nsaturated 1\n-holesterol, dietary fiber.\na calcium iron.\n49077\nJasmine Green Tea\n3085157545\nTotal Sugars 0g",
+        "__collections__": {}
+      },
+      "vub25tfV9oHfbQfaqfAG": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854756,
+            "_nanoseconds": 917662000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "SEED AND STOCK LLC\n1 of 6\nTask 46168406\nC89-8722\nBESPINOZA\n74209 10/2 OZ\n18617 02360\n1267173\n82/28/2825\n4639\nT\u00dcN\nPVEGAS\n10\nPAOL\nProbiorics\nUSDA\nORGANIC\ns D3 & Zinc\nJ Vitamin C\n0G2 SUJA PBTC SHT VT D/Z\nORGANIC\npper\nSUY\n43020\n4.0\n43020\n049432\nCase 0\nhern\n3085156500\nCHERRY CITRUS\n& Probiotics\nwith Vitamin D, Zinc\n573\nNO\nADDED\nSUG",
+        "__collections__": {}
+      },
+      "w1v7GApfhmbGwW4aKsuq": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863186,
+            "_nanoseconds": 623219000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "44891\nSEED AND STOCK LLC\n24/19.2 Z\nCase 0\n4639\n50031 70018\n43020\n049432 365\n3085148994\n73020\n4.0\n02728/2025\nLQD SPK MTN WATER\nSRP 0\nA 4 of 6\nTask 46168343\nG08-5611\n1267184\nNROLOOS",
+        "__collections__": {}
+      },
+      "wFsLy1tJJOJZTorLKph3": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863301,
+            "_nanoseconds": 668431000
+          }
+        },
+        "invoiceSnippet": "813",
+        "text": "16762 4/6/1 02\nSEED AND STOCK LLC\nDISTRIBUTED BY:\nANGIE'S ARTISAN TREATS, LLC ANGIES ARTISAN INCALO, LEUCE\n02/28/2025\n635-6811\nNROLOOS\n143020\n3085158887\n139820\nANG BCP SWEET & SALTY\nCase 0\n1267185\n2 of 3\n813\nSRP 0\n18780 01208\n049432\n8.\nTask 46168343\n153.9",
+        "__collections__": {}
+      },
+      "wGqZvD1AUQZ9MuBlJjoU": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864095,
+            "_nanoseconds": 961359000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "80999 00141\n43020\n049432 573\n43020\n14.0\nCase 0\nSRP O\n181.4\n7 of 9\nTask 46168344\nG55-6112\n1267187\nYRIVEROSHURTAL SEED AND STOCK LLC\n4639 F\n3085157873\nOG2 LE PCRN HIMLYN PINK\n40722 18/88 02",
+        "__collections__": {}
+      },
+      "wLWPIPXeWvkReMybmyQS": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862025,
+            "_nanoseconds": 567497000
+          }
+        },
+        "invoiceSnippet": "928",
+        "text": "GS\nCase 0\n049432\n1 of 1\nTask 46168343\n635-2212\n1267185\nNROLOOS\n43020\nPIRATES WHT CHDR NON GMC\n87397 12/12/.52\n928\nSRP O\n02/28/2025\nSEED AND STOCK LLC\n00027\nRATE\n5665\n1630\n3085162488",
+        "__collections__": {}
+      },
+      "wWI3GYsdWxJvg7vwR09b": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862382,
+            "_nanoseconds": 200680000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Task 46168343\n3085157439\n79\n35143 01726\nUnsw\nGreen\n43020\n573\n49075 12/10.6 Z\nNROLOOS\n43020\n049432\nCase 0\nITO EN UNSW GRN TEA OCHA\nSEED AND STOCK LLC\nof 29\n9b\nSRP O\n82/28/2025\n4639\nCalories\n623-211\nDaily Value\nAmount pe",
+        "__collections__": {}
+      },
+      "wZdwTad8BQfwRBUc5dw9": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864207,
+            "_nanoseconds": 349999000
+          }
+        },
+        "invoiceSnippet": "744",
+        "text": "SEED AND STOCK LLC\n1 of 2\nTask 46168343\nG19-2612\n1267185\nNROLOOS\n43020\n4.0\n02/28/2025\n4639\nTNYS TINY CRML SLT POUCH\n67276 8/4.44 02\n3085159129\n50032 67634\n43020\n049432 744\nCase 0\nSRP 0",
+        "__collections__": {}
+      },
+      "wg1jMl3q4iZRiV0ZnElc": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864065,
+            "_nanoseconds": 378865000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\nA 3 of 5\nTask 46168343\nG68-3712\n73020\n4.0\nSRP 0\n43028\n049432 573\n3085157125\n02/28/2025\n12/12 OZ\n15484\nSEED AND STOCK LLC\n89392 00362 8\nWATERMELON\nSMELON\n1267184\nNROLOOS\nCELS SPARKLG WATERMELON",
+        "__collections__": {}
+      },
+      "whTIXAH9vLihYt6NvGYq": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862445,
+            "_nanoseconds": 352932000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "049432\n48182\nSEED AND STOCK LLC\n65797 00005 9\n43020\nCase 0\n3085157279\n43020\n4.0\n02/28/2025\n24/.46 0Z\nWT MNI SKYDP ALM COCOA\n4639\n573\nSRP 0\n3 of 5\nTask 46168343\nG19-5532\n1267185\nNROLOOS",
+        "__collections__": {}
+      },
+      "woq9fudtp2ON9dft5gLN": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854879,
+            "_nanoseconds": 55264000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "1267173\nTask 46168406\n18617 0237017\n43020\n049432\n4.0\n2 of 15 OG2 SUJA GT HLTH ELDR GN\nSEED AND STOCK LLC\n43020\nALTH Cho\nA 2 of 15\nC78-6611\nBESPINOZA\nCase 0\nSRP 0\n3085156241\n63813 6/12 02\n1202/6pk\n02/01/2825\n4639\n573",
+        "__collections__": {}
+      },
+      "wpuPcCuXvw47Uk1vfHZu": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740854859,
+            "_nanoseconds": 275393000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\n3085156593\n049432 573\n10 OG2 SUJA MIGHTY DOZEN\n34341 6/12 OZ\nSEED AND STOCK LLC\n54208 00508\n43020\n11\nSRP 0",
+        "__collections__": {}
+      },
+      "wvQgdXDdgkoVIgzxKUUf": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862480,
+            "_nanoseconds": 828000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "Case 0\nG19-5532\nWT MNI SKYDP ALM COCOA\n4 of 5\nTask 46168343\n65797 00005\n43020\n049432\n4639\n573\n48182 24/.46 0Z\nSEED AND STOCK LLC\n3085157286\nSRP 0\n02/28/2025\n1267185\nNROLOOS",
+        "__collections__": {}
+      },
+      "xUpWBhpInhxIQBry4R40": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740862474,
+            "_nanoseconds": 305644000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "48180 24/.46 0Z\nSEED AND STOCK LLC\n4639\n5885157525\nCase U\n3 of 5 WT MNI SKNYDP ALM LEM BL\nTask 46168343\nG19-8442\n1267185\nNROLOOS\n4302U\n4.0\n80835\n51562\n43020\n049432 573\nSRP 0\n00/28/2025",
+        "__collections__": {}
+      },
+      "xd9AvEbgH1AmDwc5SJh1": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863226,
+            "_nanoseconds": 28555000
+          }
+        },
+        "invoiceSnippet": "365",
+        "text": "Not a significant source of Sodium 35mg saturated fat, trans fat, Total Carbohydrate < 1g\n049432\ncholesterol, dietary fiber,\nvitamin D, calcium, iron,\nand potassium.\nINGREDIENTS:\nPURIFIED WATER, JASMINE TEA, ASCORBIC ACID\n(315 ImL)\nM3020 62728/2625\nTotal Sugars 0g\nIncl: 0g Added Sugars\nProtein 0g\n0%\n0%\nCase 0\n4639 3085149397\nNROLOOS\nGreen Tea yeetenied\n365\nSRP O\n35143 01739\n49077 12/10.6 2\nSEED AND STOCK LLC\n3 of 28 ITO EN UNSW GRN TEA JSMN\nTask 46168343\n023-5412\n1267185",
+        "__collections__": {}
+      },
+      "xnoyJPFzZOZmrgFAxZXi": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864059,
+            "_nanoseconds": 726728000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "3085157392\n2 of 2\nTask 46168343\nG20-5911\n60000 78036\n43020\n4639\nSEED AND STOCK LLC\n049432 573\nSRP 0\n02/28/2825\nMELA WTRMLN WTR PASNFR1\n\u0e07\u0e01\u0e32\n60625\nCase 0\n1267185\nNROLOOS\n43020\n12/16.9 Z",
+        "__collections__": {}
+      },
+      "ychwLSS9ufEQso0Bpa8B": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740864100,
+            "_nanoseconds": 29723000
+          }
+        },
+        "invoiceSnippet": "573",
+        "text": "2 of 2\nTask 46168343\n573\nSRP 0\nG32-3614\nNROLOOS\n53650\n12/4.64 2\nCase 0\nSINOSHOU\nRVW WFL DUTCH CRML VAN\n56007 85796\n43020\n4639)\nSEED AND STOCK LLC\n1267185\n1433020 02/28/2025\n3085157675\n4.0\n049432",
+        "__collections__": {}
+      },
+      "yn0u5Gf1to5qWwNFjE1o": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855680,
+            "_nanoseconds": 944448000
+          }
+        },
+        "invoiceSnippet": "380",
+        "text": "380\nSRP 0\n6/4/8 OZ\nCase 0\nOOL\n25000 13025\n3085154582\nZO\nSEED AND STOCK LLC\n1 of 5\n02/28/2025\nSMPLY ORNGE JCE MINI PKK\n37421\n049432\nTask 46168406\nC74-7911\nBESPINOZA",
+        "__collections__": {}
+      },
+      "yvlq3AWOXpEF8w4F52LT": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740861945,
+            "_nanoseconds": 540583000
+          }
+        },
+        "invoiceSnippet": "970",
+        "text": "SRP.\nFruit Rolls\n02/28/2025\n3085159624\nCase 0\nA 40f 4\nTask 46168344\nVRIVEROSHURTAL SEED AND STOCK LLC\n17946 02605 8\n43020\n049432 970\nG42-4012\n1267186\nBEAR REAL FRT YOYO MANGO\n07777 6/3.5 0Z\n43020\n4.0\n4639",
+        "__collections__": {}
+      },
+      "z8s7d1UyZrtprahMU2te": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740863378,
+            "_nanoseconds": 523002000
+          }
+        },
+        "invoiceSnippet": "761",
+        "text": "12/17 OZ\n1of1\nV COCO 100% COCONUT WTR\n26504\nSEED AND STOCK LLC\nCase 0\nSRP 0\n3085155169\n98999 01000\n43020\n049432 761\nTask 46168343\n607-2612\n1267184\nNROLOOS\n02/28/2025\n4639\n43020",
+        "__collections__": {}
+      },
+      "zggWkixcETbDgOQnpWOA": {
+        "createdAt": {
+          "__datatype__": "timestamp",
+          "value": {
+            "_seconds": 1740855524,
+            "_nanoseconds": 753916000
+          }
+        },
+        "invoiceSnippet": "995",
+        "text": "56841 00801\n43020\n049432 995\nA 20f2\nTaak 16160406 26940\nOG2 KOR WELLNESS SHOT\n126/173\nSEED AND STOCK LLC\nSRP 0\nUSDA ORGANIC\nXOOHS\nJUICE SHOT\n12/1.7 OZ\nCase 0\n4.0 4639\n3085162549\nSHAKE\nSS\nC81-1311\nBESPINOZA\n4302 0272872025",
+        "__collections__": {}
+      }
+    }
+  }
+}
