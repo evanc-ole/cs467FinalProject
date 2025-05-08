@@ -3,23 +3,13 @@
 ## Text-Based Model Instructions
 
 1. **Install requirements**  
-   ```bash
-   pip install -r requirements.txt
-Run baseline model
+   `pip install -r requirements.txt`
 
-bash
-Copy
-Edit
-python3 take_first.py
-Train final model
+2. **Run baseline model**  
+   `python3 take_first.py`
 
-bash
-Copy
-Edit
-python3 main.py
-Evaluate trained and saved model
+3. **Train final model**  
+   `python3 main.py`
 
-bash
-Copy
-Edit
-python3 evaluate_model.py
+4. **Evaluate trained and saved model**  
+   `python3 evaluate_model.py`
